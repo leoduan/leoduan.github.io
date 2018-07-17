@@ -49,11 +49,8 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 
 1.  Ji Young Lee, Leo L. Duan, Tyler M Iverson, and Ruxandra I Dima. Exploring the Role of Topological Frustration in Actin Refolding with Molecular Simulations. the Journal of Physical Chemistry B, 116(5):1677–1686, 2012.
 
-2.  Leo L. Duan, Artem Zhmurov, Valeri Barsegov, and Ruxandra I Dima. Exploring the Mechanical
+2.  Leo L. Duan, Artem Zhmurov, Valeri Barsegov, and Ruxandra I Dima. Exploring the Mechanical Stability of the C2 Domains in Human Synaptotagmin 1. the Journal of Physical Chemistry B,115(33):10133–10146, 2011.
 
-    Stability of the C2 Domains in Human Synaptotagmin 1. the Journal of Physical Chemistry B,
-
-    115(33):10133–10146, 2011.
 
 
 
