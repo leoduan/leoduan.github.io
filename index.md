@@ -2,15 +2,13 @@
 
 I'm a statistician interested in **probabilistic machine learning**.
 
-Currently I'm a postdoc associate at Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. Previously, I graduated from Department of Mathematics at University of Cincinnati, working with Prof. Rhonda Szczesniak and Prof. Xia Wang on non-parametric Bayes modeling.
-
-I'm joining the Department of Statistics at University of Florida as an Assistant Professor in August 2018.
+I work as an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes under the supervision of Profs. Rhonda Szczesniak and Xia Wang.
 
 ### Research Interests
 
 #### Bayes Pseudo-Likelihood
 
-My main research interests reside on the intersection of **Bayesian** statistics and **Pseudo-Likelihood** approach.
+My primary research interests reside on the intersection of **Bayesian** statistics and **Pseudo-Likelihood** approach.
 
 Conventionally, Bayesian inference requires a correctly specified model, describing the full generating process for the data. This can create problems for modern machine learning tasks: i. Modeling everything has a high modeling and computing cost; ii. Usually the data have some deviation from the model assumption, which can lead to (often unbounded) deterioration of performance.
 
@@ -20,7 +18,6 @@ I'm interested in tackling these problems through the new framework called  "Bay
 2. Assigning a probabilistic model on the *transform* of  the source data, such as some robust summary statistics, or a lower-dimensional representation.
 
 The "pseudo-nesss" got its name as these probabilitistic models may not correspond exactly with the unobserved "truth", but it substantially improves the overall model robustness and reduces the model complexity.
-
 
 
 #### Publications
