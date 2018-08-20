@@ -6,7 +6,7 @@ I work as an Assistant Professor in the Department of Statistics at University o
 
 ### Course Links
 
-[Link to STAT4322](./stat4322.html).
+[Link to STA4322 / STA5328](./stat4322.html).
 
 
 ### Research Interests
