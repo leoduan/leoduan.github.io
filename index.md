@@ -4,6 +4,11 @@ I'm a statistician interested in **probabilistic machine learning**.
 
 I work as an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes under the supervision of Profs. Rhonda Szczesniak and Xia Wang.
 
+### Course Links
+
+[Link to STAT4322](./stat4322.html).
+
+
 ### Research Interests
 
 #### Bayes Pseudo-Likelihood
