@@ -1,30 +1,33 @@
 # Leo Li Duan
 
-I'm a statistician interested in **probabilistic machine learning**.
+I'm a statistician interested in **Robust Bayes** and **Pseudo-Likellihood**.  The current push is to use pseudo-likelihood to build more flexible and robust models for complex data arising from machine learning, biomedical research and neuroscience.
 
-I am an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes and working with Profs. Rhonda Szczesniak and Xia Wang.
+I work as an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes and working with Profs. Rhonda Szczesniak and Xia Wang.
 
-Students interested in working on Bayesian machine learning are encouraged to contact me via email.
+**Students interested in working with me are encouraged to contact via email.**
 
-li dot duan at ufl dot edu
+__***li dot duan at ufl dot edu***__
+
+<img src="./dti.png" width="500">
+
+<img src="./eigenbrain1.png" width="300">
+
+
 
 ### Course Links
 
 [Link to STA4322 / STA5328](./stat4322.html).
 
-
 ### Research Interests
 
 #### Bayes Pseudo-Likelihood
 
-My primary research interests reside on the intersection of **Bayesian** statistics and **Pseudo-Likelihood** approach.
-
 Conventionally, Bayesian inference requires a correctly specified model, describing the full generating process for the data. This can create problems for modern machine learning tasks: i. Modeling everything has a high modeling and computing cost; ii. Usually the data have some deviation from the model assumption, which can lead to (often unbounded) deterioration of performance.
 
-I'm interested in tackling these problems through the new framework called  "Bayes Pseudo-Likelihood". This may involve:
+I'm interested in tackling these problems through the new framework called  "Bayesian Pseudo-Likelihood". This may involve:
 
 1. Replacing the complicated prior/likelihood with a simple approximate (but having proper density). 
-2. Assigning a probabilistic model on the *transform* of  the source data, such as some robust summary statistics, or a lower-dimensional representation.
+2. Assigning a probabilistic model on some *transform* of  the source data, such as some robust summary statistics, or a lower-dimensional representation.
 
 The "pseudo-nesss" got its name as these probabilitistic models may not correspond exactly with the unobserved "truth", but it substantially improves the overall model robustness and reduces the model complexity.
 
