@@ -6,7 +6,9 @@ I work as an Assistant Professor in the Department of Statistics at University o
 
 **Students interested in working with me are encouraged to contact via email.**
 
-__***li dot duan at ufl dot edu***__
+_***li dot duan at ufl dot edu***_
+
+
 
 <img src="./dti.png" width="500">
 
@@ -16,7 +18,7 @@ __***li dot duan at ufl dot edu***__
 
 ### Course Links
 
-[Link to STA4322 / STA5328](./stat4322.html).
+[Link to STA4322 / STA5328](./stat4322/start.html).
 
 ### Research Interests
 

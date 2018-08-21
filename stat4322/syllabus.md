@@ -47,8 +47,8 @@ The total score grade consists of:
 | ---- | ----------------- | ------------------------------- |
 | 20%  | Homework          |                                 |
 | 20%  | 1st Mid-term exam | in class, scheduled on Sep 28   |
-| 20%  | 2nd Mid-term exam | in class, scheduled on Nov 2    |
-| 40%  | Final exam        | date TBD within December 8 - 14 |
+| 20%  | 2nd Mid-term exam | in class, scheduled on Oct 31  |
+| 40%  | Final exam        | 12/10/2018 @ 10:00 AM - 12:00 PM |
 
 
 All exams are closed-book, however, you may bring one sheet of formula into exams. The sheet can be written on both sides.
