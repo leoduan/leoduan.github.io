@@ -24,7 +24,7 @@ Tue 9:00am -12:00pm
 MWF 3:00-3:50pm
 
 #### Course Web Page:
-https://leoduan.github.io/stat4322.html
+https://leoduan.github.io/stat4322/start.html
 
 #### Required Textbox:
 
@@ -49,6 +49,9 @@ The total score grade consists of:
 | 20%  | 1st Mid-term exam | in class, scheduled on Sep 28   |
 | 20%  | 2nd Mid-term exam | in class, scheduled on Oct 31  |
 | 40%  | Final exam        | 12/10/2018 @ 10:00 AM - 12:00 PM |
+
+
+Note: if there's any disagreement on the score you get for homework / exam, you have *one week of time to appeal* to the instructor after getting your exams back.
 
 
 All exams are closed-book, however, you may bring one sheet of formula into exams. The sheet can be written on both sides.
