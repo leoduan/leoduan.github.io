@@ -15,4 +15,6 @@
 
 8.12 8.43 on the textbook
 
+<img src="./hw3.png" width="500">
+
 
