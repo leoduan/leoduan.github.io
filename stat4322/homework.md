@@ -7,11 +7,12 @@
 [solution](./hw1sol.pdf)
 
 
-
-
 *   homework 2 
 
 7.52 7.96 on the textbook
 
-<img src="./hw2.png" width="500">
+*   homework 3 
+
+8.12 8.43 on the textbook
+
 
