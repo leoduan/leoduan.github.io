@@ -11,6 +11,8 @@
 
 7.52 7.96 on the textbook
 
+[solution](./hw2sol.pdf)
+
 *   homework 3 
 
 8.12 8.43 on the textbook
