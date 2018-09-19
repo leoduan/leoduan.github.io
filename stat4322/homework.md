@@ -17,6 +17,8 @@
 
 8.12 8.43 on the textbook
 
-<img src="./hw3.png" width="500">
 
+*   homework 4 
+9.2 9.5
+<img src="./hw4.png" width="500">
 
