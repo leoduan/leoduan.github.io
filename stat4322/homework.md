@@ -16,6 +16,7 @@
 *   homework 3 
 
 8.12 8.43 on the textbook
+
 [solution](./hw3sol.pdf)
 
 
