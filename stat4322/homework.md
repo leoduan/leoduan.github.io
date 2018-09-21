@@ -16,9 +16,11 @@
 *   homework 3 
 
 8.12 8.43 on the textbook
+[solution](./hw3sol.pdf)
 
 
 *   homework 4 
+
 9.2 9.5
 <img src="./hw4.png" width="500">
 
