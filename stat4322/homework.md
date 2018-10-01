@@ -23,5 +23,9 @@
 *   homework 4 
 
 9.2 9.5
-<img src="./hw4.png" width="500">
+
+*   homework 5
+9.17    9.18
+
+<img src="./hw5.jpg" width="500">
 
