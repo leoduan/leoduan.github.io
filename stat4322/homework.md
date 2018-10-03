@@ -24,7 +24,10 @@
 
 9.2 9.5
 
+[solution](./hw4sol.pdf)
+
 *   homework 5
+
 9.17    9.18
 
 <img src="./hw5.jpg" width="500">
