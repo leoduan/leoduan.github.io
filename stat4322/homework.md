@@ -28,7 +28,16 @@
 
 *   homework 5
 
-9.17    9.18
+9.17 9.18
 
-<img src="./hw5.jpg" width="500">
+
+*   homework 6
+
+9.39 9.64
+[photos](./hw6.pdf)
+
+Recommended problems (do not turn in):
+9.44 9.51 9.54 9.62 9.63 9.65 9.70 9.75
+
+
 
