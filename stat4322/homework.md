@@ -2,42 +2,49 @@
 
 *   homework 1
 
-7.30 7.33 on the textbook
+	7.30 7.33
 
-[solution](./hw1sol.pdf)
+	[solution](./hw1sol.pdf)
 
 
 *   homework 2 
 
-7.52 7.96 on the textbook
+	7.52 7.96
 
-[solution](./hw2sol.pdf)
+	[solution](./hw2sol.pdf)
 
 *   homework 3 
 
-8.12 8.43 on the textbook
+	8.12 8.43
 
-[solution](./hw3sol.pdf)
+	[solution](./hw3sol.pdf)
 
 
 *   homework 4 
 
-9.2 9.5
+    9.2 9.5
 
-[solution](./hw4sol.pdf)
+    [solution](./hw4sol.pdf)
 
 *   homework 5
 
-9.17 9.18
+    9.17 9.18
+    [solution](./hw5sol.pdf)
 
+    Recommended problems (do not turn in):
+    9.24 9.27 9.30 9.32
 
 *   homework 6
+    9.39 9.64
+	[solution](./hw6sol.pdf)
 
-9.39 9.64
-[photos](./hw6.pdf)
+    Recommended problems (do not turn in):
+    9.44 9.51 9.54 9.62 9.63 9.65 9.70 9.75
 
-Recommended problems (do not turn in):
-9.44 9.51 9.54 9.62 9.63 9.65 9.70 9.75
+*   homework 7
 
+	10.6 10.18
+	[photo](./hw7.pdf)
 
-
+    Recommended problems (do not turn in):
+    10.19 10.20 10.21
