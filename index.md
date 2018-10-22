@@ -38,7 +38,8 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 
 ##### Statistical Methodology:
 
-1.  Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Constraint Relaxation for Bayesian Modeling with Parameter Constraints. 2018+.
+1.  Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2018+. https://arxiv.org/abs/1810.08537
+1.  Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
 2.  Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. 2018+.
 3.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
 4.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, accepted 2017.
