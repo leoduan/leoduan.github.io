@@ -36,15 +36,16 @@
 
 *   homework 6
     9.39 9.64
-	[solution](./hw6sol.pdf)
+    [solution](./hw6sol.pdf)
 
     Recommended problems (do not turn in):
     9.44 9.51 9.54 9.62 9.63 9.65 9.70 9.75
 
 *   homework 7
 
-	10.6 10.18
-	[photo](./hw7.pdf)
+    10.6 10.18
+	
+	[solution](./hw7sol.pdf)
 
     Recommended problems (do not turn in):
     10.19 10.20 10.21

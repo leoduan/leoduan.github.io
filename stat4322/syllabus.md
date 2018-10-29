@@ -3,6 +3,7 @@
 Introduction to Statistics Theory STA 4322 (158H) and STA 5328 (159C)
 
 #### Instructor:
+
 L. Duan
 101C Griffin Floyd Hall,
 email: li dot duan at ufl dot edu
@@ -22,9 +23,6 @@ Tue 9:00am -12:00pm
 
 100 Griffin Floyd Hall
 MWF 3:00-3:50pm
-
-#### Course Web Page:
-https://leoduan.github.io/stat4322/start.html
 
 #### Required Textbox:
 
