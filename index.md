@@ -38,12 +38,13 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 
 ##### Statistical Methodology:
 
-1.  Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, accepted, 2018.
-2.  Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2018+. https://arxiv.org/abs/1810.08537
-3.  Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
-4.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
-5.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, accepted 2017.
-6.  Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data. Journal of Computational and Graphical Statistics, 25(3):748–761, 2016.
+1.  Leo L. Duan and Jeffery W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
+2.  Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, accepted, 2018.
+3.  Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2018+. https://arxiv.org/abs/1810.08537
+4.  Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
+5.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
+6.  Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, accepted 2017.
+7.  Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data. Journal of Computational and Graphical Statistics, 25(3):748–761, 2016.
 
 
 
