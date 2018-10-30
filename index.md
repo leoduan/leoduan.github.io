@@ -38,7 +38,7 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 
 ##### Statistical Methodology:
 
-1.  Leo L. Duan and Jeffery W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
+1.  Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
 2.  Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, accepted, 2018.
 3.  Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2018+. https://arxiv.org/abs/1810.08537
 4.  Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
