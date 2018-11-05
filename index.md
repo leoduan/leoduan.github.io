@@ -4,8 +4,12 @@ I'm a statistician interested in **Robust Bayes** and **Pseudo-Likellihood**.  T
 
 I work as an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes and working with Profs. Rhonda Szczesniak and Xia Wang.
 
-**Students interested in working with me are encouraged to contact via email.**
+<span style="color:red">**Announcement**</span>
 
+<span style="color:red">I am looking for UF graduate student, to work on network modeling on how brain functions for working memory. If you are interested, send me an email, or chat with me in the office FLO-101C.
+</span>
+
+Email:
 _***li dot duan at ufl dot edu***_
 
 
