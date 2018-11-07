@@ -49,3 +49,12 @@
 
     Recommended problems (do not turn in):
     10.19 10.20 10.21
+
+*   homework 8
+
+	10.81 10.95  
+	
+	[photo](./hw8.pdf)
+
+    Recommended problems (do not turn in):
+    10.67  10.98 10.99 10.102
