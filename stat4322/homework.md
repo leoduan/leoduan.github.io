@@ -62,5 +62,5 @@
 *   homework 9
 
     10.100 10.101
-    
+     
     [photo](./hw9.pdf)
