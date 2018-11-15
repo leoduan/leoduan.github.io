@@ -58,3 +58,9 @@
 
     Recommended problems (do not turn in):
     10.67  10.98 10.99 10.102
+
+*   homework 9
+
+    10.100 10.101
+    
+    [photo](./hw9.pdf)
