@@ -54,7 +54,7 @@
 
 	10.81 10.95  
 	
-	[photo](./hw8.pdf)
+	[solution](./hw8sol.pdf)
 
     Recommended problems (do not turn in):
     10.67  10.98 10.99 10.102
