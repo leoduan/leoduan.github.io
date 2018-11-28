@@ -45,7 +45,7 @@
 
     10.6 10.18
 	
-	[solution](./hw7sol.pdf)
+    [solution](./hw7sol.pdf)
 
     Recommended problems (do not turn in):
     10.19 10.20 10.21
@@ -62,7 +62,8 @@
 *   homework 9
 
     10.100 10.101
-    [photo](./hw9.pdf)
+	
+	[solution](./hw9sol.pdf)
 
 *   homework 10
 
