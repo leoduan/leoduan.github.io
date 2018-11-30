@@ -38,6 +38,11 @@ I'm interested in tackling these problems through the new framework called  "Bay
 The "pseudo-nesss" got its name as these probabilitistic models may not correspond exactly with the unobserved "truth", but it substantially improves the overall model robustness and reduces the model complexity.
 
 
+#### Awards
+- BNP@NeurIPS Award, Montreal 2018
+- Objective Bayes Workshop Travel Award, Austin 2017
+- Student Paper Award in Section on Bayesian Statistics Science, Joint Statistical Meetings, Seattle 2015
+
 #### Publications
 
 ##### Statistical Methodology:
