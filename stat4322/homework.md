@@ -68,5 +68,5 @@
 *   homework 10
 
     11.21 11.15
-     
-    [photo](./hw10.pdf)
+    
+	[solution](./hw10sol.pdf)
