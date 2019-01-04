@@ -21,6 +21,10 @@ _***li dot duan at ufl dot edu***_
 
 ### Course Links
 
+Spring 2019
+[Link to STA4321 / STA5325](./stat4321/start.html).
+
+Fall 2018
 [Link to STA4322 / STA5328](./stat4322/start.html).
 
 ### Research Interests
