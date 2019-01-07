@@ -24,7 +24,7 @@ TBD
 MCCARTY B G086 
 MWF 11:45am-12:35pm
 
-#### Required Textbox:
+#### Required Textbook:
 
 7th edition of Mathematical Statistics with Applications by Wackerly, Mendenhall, and Scheaffer (WMS)
 
@@ -67,7 +67,7 @@ Information on current University of Florida grading policies for assigning grad
 
 #### Homework:
 
-Bi-weekly homework of 3-4 problems will be assigned and posted on the course webiste. Each homework is due at the ***beginning*** of Monday lecture. Please hand in the homework ***in person*** to the instructor (i.e. do not email, do not give it to the TA).
+Weekly homework of 2 problems will be assigned and posted on the course website. Each homework is due at the ***beginning*** of Monday lecture. Please hand in the homework ***in person*** to the instructor (i.e. do not email, do not give it to the TA).
 
 ***No late homework will be accepted***, except for medical reason with the doctor's note. 
 
