@@ -17,7 +17,7 @@ Maoran Xu
 email: maoranxu at ufl dot edu
 
 Office Hours:
-TBD
+W 1pm-3pm
 
 #### Class Time:
 
