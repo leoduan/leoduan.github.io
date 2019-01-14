@@ -14,7 +14,7 @@
 
     2.  Exercise 2.22 on the text book:
 
-        If $B\subset A$, show that
+        If $$ B\subset A$$, show that
 
         $$P(A)=P(B)+ P(A \cap B^C)$$
 
