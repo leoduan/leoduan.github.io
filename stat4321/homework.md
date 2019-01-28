@@ -16,7 +16,9 @@
 
         If $$ B\subset A$$, show that
 
-        $$P(A)=P(B)+ P(A \cap B^C)​$$
+        $$P(A)=P(B)+ P(A \cap B^C)$$
+
+    [solution](./hw1sol.pdf)
 
 *   homework 2 (due on Jan 28)
 
