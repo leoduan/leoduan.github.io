@@ -24,3 +24,10 @@
 
     Exercise 2.72, 2.80	
     [photos](./hw2.pdf)
+    [solution](./hw2sol.pdf)
+
+*   homework 3 (due on Feb 4)
+    Exercise 2.71, 2.83	
+    [photos](./hw3.pdf)
+
+
