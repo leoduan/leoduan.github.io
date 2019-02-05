@@ -29,5 +29,8 @@
 *   homework 3 (due on Feb 4)
     Exercise 2.71, 2.83	
     [photos](./hw3.pdf)
+    [solution](./hw3sol.pdf)
+
+    
 
 
