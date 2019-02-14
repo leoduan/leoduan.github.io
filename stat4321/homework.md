@@ -31,6 +31,9 @@
     [photos](./hw3.pdf)
     [solution](./hw3sol.pdf)
 
-    
+*   homework 4 (due on Feb 20)
+    Exercise 3.31, 3.54	
+    [photos](./hw4.pdf)
+
 
 
