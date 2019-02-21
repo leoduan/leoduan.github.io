@@ -23,17 +23,17 @@
 *   homework 2 (due on Jan 28)
 
     Exercise 2.72, 2.80	
-    [photos](./hw2.pdf)
     [solution](./hw2sol.pdf)
 
 *   homework 3 (due on Feb 4)
     Exercise 2.71, 2.83	
-    [photos](./hw3.pdf)
     [solution](./hw3sol.pdf)
 
 *   homework 4 (due on Feb 20)
     Exercise 3.31, 3.54	
-    [photos](./hw4.pdf)
+    [solution](./hw4sol.pdf)
 
-
+*   homework 5 (due on Feb 27)
+    Exercise 3.66 3.76 3.142
+    [photos](./hw5.pdf)
 
