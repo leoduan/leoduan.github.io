@@ -37,3 +37,7 @@
     Exercise 3.66 3.76 3.142
     [photos](./hw5.pdf)
 
+*   homework 6 (due on Mar 13)
+    Exercise 3.145 3.155
+    [photos](./hw6.pdf)
+
