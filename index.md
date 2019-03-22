@@ -49,32 +49,32 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 #### Publications
 
 ##### Statistical Methodology:
-Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. 2019+. https://arxiv.org/abs/1903.09029
-Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2019+. https://arxiv.org/abs/1810.08537
-Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
-Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
-Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
-Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
-Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, accepted 2017.
-Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data. Journal of Computational and Graphical Statistics, 25(3):748–761, 2016.
+*   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. 2019+. https://arxiv.org/abs/1903.09029
+*	Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2019+. https://arxiv.org/abs/1810.08537
+*	Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
+*	Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
+*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. 2018+.
+*   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
+*   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, accepted 2017.
+*   Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data. Journal of Computational and Graphical Statistics, 25(3):748–761, 2016.
 
 
 
 ##### Biostatistics:
 
-1.  Otso Ovaskainen, Gleb Tikhonov, Anna Norberg, F. Guillaume Blanchet, Leo L. Duan, David B. Dunson, Tomas Roslin, and Nerea Abrego. How to Make More Out of Community Data? A Conceptual Framework and Its Implementation as Models and Software. Ecology Letters, 20(5):561–576, 2017.
-2.  Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Joint Hierarchical Gaussian Process Model with Application to forecast in Medical Monitoring. STAT 2017.
-3.  Judith W Dexheimer, Eric S Kirkendall, Michal Kouril, Philip A Hagedorn, Thomas Minich, Leo L. Duan, Monifa Mahdi, Rhonda D. Szczesniak, S andrew Spooner, et al. The Effects of Medication Alerts on Prescriber Response in a Pediatric Hospital. Applied Clinical Informatics, 8(2):491–501, 2016.
-4.  Rhonda D. Szczesniak, Dan Li, Leo L. Duan, Mekibib Altaye, Menachem Miodovnik, and Jane C Khoury. Longitudinal Patterns of Glycemic Control and Blood Pressure in Pregnant Women with Type 1 Diabetes Mellitus: Phenotypes From Functional Data Analysis. American Journal of Perinatology, 33(13):1282–1290, 2016.
-5.  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
-6.  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
-7.  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
+*	Otso Ovaskainen, Gleb Tikhonov, Anna Norberg, F. Guillaume Blanchet, Leo L. Duan, David B. Dunson, Tomas Roslin, and Nerea Abrego. How to Make More Out of Community Data? A Conceptual Framework and Its Implementation as Models and Software. Ecology Letters, 20(5):561–576, 2017.
+*  Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Joint Hierarchical Gaussian Process Model with Application to forecast in Medical Monitoring. STAT 2017.
+*  Judith W Dexheimer, Eric S Kirkendall, Michal Kouril, Philip A Hagedorn, Thomas Minich, Leo L. Duan, Monifa Mahdi, Rhonda D. Szczesniak, S andrew Spooner, et al. The Effects of Medication Alerts on Prescriber Response in a Pediatric Hospital. Applied Clinical Informatics, 8(2):491–501, 2016.
+*  Rhonda D. Szczesniak, Dan Li, Leo L. Duan, Mekibib Altaye, Menachem Miodovnik, and Jane C Khoury. Longitudinal Patterns of Glycemic Control and Blood Pressure in Pregnant Women with Type 1 Diabetes Mellitus: Phenotypes From Functional Data Analysis. American Journal of Perinatology, 33(13):1282–1290, 2016.
+*  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
+*  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
+*  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
 
 ##### Computational Physics:
 
-1.  Ji Young Lee, Leo L. Duan, Tyler M Iverson, and Ruxandra I Dima. Exploring the Role of Topological Frustration in Actin Refolding with Molecular Simulations. the Journal of Physical Chemistry B, 116(5):1677–1686, 2012.
+*  Ji Young Lee, Leo L. Duan, Tyler M Iverson, and Ruxandra I Dima. Exploring the Role of Topological Frustration in Actin Refolding with Molecular Simulations. the Journal of Physical Chemistry B, 116(5):1677–1686, 2012.
 
-2.  Leo L. Duan, Artem Zhmurov, Valeri Barsegov, and Ruxandra I Dima. Exploring the Mechanical Stability of the C2 Domains in Human Synaptotagmin 1. the Journal of Physical Chemistry B,115(33):10133–10146, 2011.
+*  Leo L. Duan, Artem Zhmurov, Valeri Barsegov, and Ruxandra I Dima. Exploring the Mechanical Stability of the C2 Domains in Human Synaptotagmin 1. the Journal of Physical Chemistry B,115(33):10133–10146, 2011.
 
 
 
