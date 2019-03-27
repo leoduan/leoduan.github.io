@@ -6,5 +6,6 @@ Introduction to Probability STA 4321 and STA 5325
 
 [homework](./homework.html)
 
-[exam1](./midterm1.pdf)
+[exam1](./midterm1sol.pdf)
+[exam2](./midterm2sol.pdf)
 
