@@ -41,3 +41,6 @@
     Exercise 3.145 3.155
     [solution](./hw6sol.pdf)
 
+*   homework 7 (due on Apr 5)
+    Exercise 4.12 4.62
+    [photo](./hw7.pdf)
