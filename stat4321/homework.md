@@ -48,3 +48,8 @@
 *   homework 8 (due on Apr 12)
     Exercise 5.22 5.32
     [photo](./hw8.pdf)
+    
+*   homework 9 (due on Apr 22)
+    Exercise 5.94 5.141
+    [photo](./hw9.pdf)
+
