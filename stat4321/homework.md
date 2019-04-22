@@ -51,5 +51,5 @@
     
 *   homework 9 (due on Apr 22)
     Exercise 5.94 5.141
-    [photo](./hw9.pdf)
+    [solution](./hw9sol.pdf)
 
