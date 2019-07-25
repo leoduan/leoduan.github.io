@@ -46,7 +46,7 @@ The "pseudo-nesss" got its name as these probabilitistic models may not correspo
 #### Publications
 
 ##### Statistical Methodology:
-*   Leo L. Duan. Transport Monte Carlo 2019+. https://arxiv.org/abs/1906.11732
+*   Leo L. Duan. Transport Monte Carlo 2019+. http://arxiv.org/abs/1907.10448
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
 *   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. 2019+. https://arxiv.org/abs/1903.09029
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2019+. https://arxiv.org/abs/1810.08537
