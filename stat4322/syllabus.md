@@ -1,10 +1,10 @@
 # Introduction to Statistics Theory
 
-Introduction to Statistics Theory STA 4322 (158H) and STA 5328 (159C)
+Introduction to Statistics Theory STA 4322 and STA 5328
 
 #### Instructor:
 
-L. Duan
+Leo Li Duan
 101C Griffin Floyd Hall,
 email: li dot duan at ufl dot edu
 
@@ -12,12 +12,11 @@ Office Hours:
 MWF 3:50-4:50pm
 
 #### TA:
-Maoran Xu
-234 Griffin Floyd Hall,
-email: maoranxu at ufl dot edu
+Xiran Fan
+209 Griffin Floyd Hall
 
 Office Hours:
-Tue 9:00am -12:00pm
+Tue 1:00pm - 3:00pm
 
 #### Class Time:
 
@@ -33,20 +32,20 @@ STA 4321 (Introduction to Probability)
 MAC 2311, 2312, 2313 (Calculus I, II, III)
 
 #### Objective:
-This course uses mathematical statistics to provide a rigorous understanding of statistical inference, such as point estimation and hypothesis testing. We will cover the following topics: sampling distributions, central limit theorem, estimation, properties of point estimators, hypothesis testing, linear models and least sqaure.
+This course uses mathematical statistics to provide a rigorous understanding of statistical inference, such as point estimation and hypothesis testing. We will cover the following topics: function of random variable, sampling distributions, central limit theorem, estimation, properties of point estimators, hypothesis testing.
 
 #### Course Schedule:
-The course covers Chapter 7-11 in the book of WMS. We will spend approximately two weeks in each chapter.
+The course covers Chapter 6-10 in the book of WMS. We will spend approximately two weeks in each chapter.
 
 #### Grading and exams:
 The total score grade consists of:
 
 | Percentage | Source | Date |
 | ---- | ----------------- | ------------------------------- |
-| 20%  | Homework          |                                 |
-| 20%  | 1st Mid-term exam | in class, scheduled on Sep 28   |
-| 20%  | 2nd Mid-term exam | in class, scheduled on Oct 31  |
-| 40%  | Final exam        | 12/10/2018 @ 10:00 AM - 12:00 PM |
+| 25%  | Homework          |                                 |
+| 25%  | 1st exam | in class, date TBD |
+| 25%  | 2nd exam | in class, date TBD |
+| 25%  | 3nd exam | in class, date TBD  |
 
 
 Note: if there's any disagreement on the score you get for homework / exam, you have *one week of time to appeal* to the instructor after getting your exams back.
