@@ -43,9 +43,9 @@ The total score grade consists of:
 | Percentage | Source | Date |
 | ---- | ----------------- | ------------------------------- |
 | 25%  | Homework          |                                 |
-| 25%  | 1st exam | in class, date TBD |
-| 25%  | 2nd exam | in class, date TBD |
-| 25%  | 3nd exam | in class, date TBD  |
+| 25%  | 1st exam | in class, Sep 27 |
+| 25%  | 2nd exam | in class, Nov 1 |
+| 25%  | 3nd exam | in class, Dec 4  |
 
 
 Note: if there's any disagreement on the score you get for homework / exam, you have *one week of time to appeal* to the instructor after getting your exams back.
