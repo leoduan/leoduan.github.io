@@ -4,6 +4,7 @@
 
 #### Homework:
 
-*   homework 1 (due on Sep 4)
+*   homework 1 (due on Sep 6)
+
 6.2 6.26
 
