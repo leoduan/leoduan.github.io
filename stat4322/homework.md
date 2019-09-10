@@ -11,3 +11,7 @@
 
 *   homework 2 (due on Sep 16)
 7.9 7.20
+
+[photo](./hw2-2019.pdf)
+
+
