@@ -7,3 +7,6 @@
 *   homework 1 (due on Sep 4)
 6.2 6.26
 
+
+*   homework 2 (due on Sep 16)
+7.9 7.20
