@@ -17,6 +17,7 @@ _***li dot duan at ufl dot edu***_
 ### Current Group Members
 
 Maoran Xu
+
 Yue Bai
 
 ### Research Interests
@@ -71,13 +72,3 @@ Fall 2019
 *  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
 *  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
 *  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
-
-##### Computational Physics:
-
-*  Ji Young Lee, Leo L. Duan, Tyler M Iverson, and Ruxandra I Dima. Exploring the Role of Topological Frustration in Actin Refolding with Molecular Simulations. the Journal of Physical Chemistry B, 116(5):1677–1686, 2012.
-
-*  Leo L. Duan, Artem Zhmurov, Valeri Barsegov, and Ruxandra I Dima. Exploring the Mechanical Stability of the C2 Domains in Human Synaptotagmin 1. the Journal of Physical Chemistry B,115(33):10133–10146, 2011.
-
-
-
-
