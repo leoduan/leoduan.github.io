@@ -14,6 +14,21 @@ _***li dot duan at ufl dot edu***_
 
 <img src="./eigenbrain1.png" width="300">
 
+### Current Group Members
+
+Maoran Xu
+Yue Bai
+
+### Research Interests
+
+1. Network modeling
+
+2. Unsupervised learning: clustering & interpretable dimension reduction
+
+3. Bayesian non-parametrics via invertible transport
+
+4. Optimization-based approach to posterior sampling  & approximation
+
 
 
 ### Course Links
@@ -23,16 +38,6 @@ Spring 2019
 
 Fall 2019
 [Link to STA4322 / STA5328](./stat4322/start.html).
-
-### Research Interests
-
-#### Network modeling
-
-#### Unsupervised learning: clustering & interpretable dimension reduction
-
-#### Bayesian non-parametric via invertible transport
-
-#### Optimization-based approach to posterior sampling  & approximation
 
 
 
