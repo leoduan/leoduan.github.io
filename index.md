@@ -26,16 +26,14 @@ Fall 2019
 
 ### Research Interests
 
-#### Bayes Pseudo-Likelihood
+#### Network modeling
 
-Conventionally, Bayesian inference requires a correctly specified model, describing the full generating process for the data. This can create problems for modern machine learning tasks: i. Modeling everything has a high modeling and computing cost; ii. Usually the data have some deviation from the model assumption, which can lead to (often unbounded) deterioration of performance.
+#### Unsupervised learning: clustering & interpretable dimension reduction
 
-I'm interested in tackling these problems through the new framework called  "Bayesian Pseudo-Likelihood". This may involve:
+#### Bayesian non-parametric via invertible transport
 
-1. Replacing the complicated prior/likelihood with a simple approximate (but having proper density). 
-2. Assigning a probabilistic model on some *transform* of  the source data, such as some robust summary statistics, or a lower-dimensional representation.
+#### Optimization-based approach to posterior sampling  & approximation
 
-The "pseudo-nesss" got its name as these probabilitistic models may not correspond exactly with the unobserved "truth", but it substantially improves the overall model robustness and reduces the model complexity.
 
 
 #### Awards
