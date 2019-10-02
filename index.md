@@ -1,6 +1,6 @@
 # Leo Li Duan
 
-I'm a statistician interested in **Robust Bayes** and **Pseudo-Likellihood**.  The current push is to use pseudo-likelihood to build more flexible and robust models for complex data arising from machine learning, biomedical research and neuroscience.
+I'm a statistician interested in the **generalized Bayes models** and **graph modeling**.  The current push is to build more flexible and robust models for complex data arising from machine learning, biomedical research and neuroscience.
 
 I work as an Assistant Professor in the Department of Statistics at University of Florida. Previously I was a postdoc associate in Duke University, working with Prof. David Dunson on Bayesian modeling for complex data. I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015, studying non-parametric Bayes and working with Profs. Rhonda Szczesniak and Xia Wang.
 

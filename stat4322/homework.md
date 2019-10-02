@@ -27,3 +27,7 @@
 [photo](./hw3-2019.pdf)
 [solution](./hw3_sol_2019.pdf)
 
+*   homework 4 (due on Oct 9)
+
+8.12  8.43
+[photo](./hw4-2019.pdf)
