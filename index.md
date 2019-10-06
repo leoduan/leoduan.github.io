@@ -50,6 +50,8 @@ Fall 2019
 #### Publications
 
 ##### Statistical Methodology:
+
+*   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graphs: Bayesian Community Detection in Heterogeneous Networks. 2019+. [pdf](./laplacians.pdf). 
 *   Leo L. Duan. Transport Monte Carlo 2019+. http://arxiv.org/abs/1907.10448
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
 *   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. 2019+. https://arxiv.org/abs/1903.09029
