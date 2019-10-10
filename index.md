@@ -9,10 +9,12 @@ Email:
 _***li dot duan at ufl dot edu***_
 
 
-
 <img src="./dti.png" width="500">
 
 <img src="./eigenbrain1.png" width="300">
+
+
+I'm looking for graduate student interested in working at the intersection between non-parametric Bayes, neural network and neural network (pun intended).
 
 ### Current Group Members
 
