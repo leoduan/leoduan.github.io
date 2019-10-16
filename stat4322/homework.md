@@ -31,3 +31,8 @@
 
 8.12  8.43
 [photo](./hw4-2019.pdf)
+
+*   homework 5 (due on Oct 21)
+
+8.56  8.97  8.99
+[photo](./hw5-2019.pdf)
