@@ -38,18 +38,18 @@
 [photo](./hw5-2019.pdf)
 
 *   homework 6 (due on Oct 30)
-1. For $Y_i \stackrel{iid}{\sim} \text{Bernoulli}(p)$, consider $\hat p= \frac{\sum_{i=1}^n Y_i}{n}$ as an estimator for $p$.
+1. For $$Y_i \stackrel{iid}{\sim} \text{Bernoulli}(p)$$, consider $$\hat p= \frac{\sum_{i=1}^n Y_i}{n}$$ as an estimator for $$p$$.
 
-    a. Find the Fisher information for $I_Y(p)$.
+    a. Find the Fisher information for $$I_Y(p)$$.
 
-    b. Find $V(\hat p)$.
+    b. Find $$V(\hat p)$$.
 
-    c. Is $\hat p$ an efficient estimator for $p$? Why or why not?
+    c. Is $$\hat p$$ an efficient estimator for $$p$$? Why or why not?
 
-2. Let $Y_1,\ldots,Y_n$ be a random sample with pdf
+2. Let $$Y_1,\ldots,Y_n$$ be a random sample with pdf
 
-    $f(y) = \theta y^{\theta-1}, \quad 0<y<1,$
+    $$f(y) = \theta y^{\theta-1}, \quad 0<y<1,$$
 
-    where $\theta>0$. Show that $\bar Y$ is a consistent estimator of $\theta/(\theta+1)$.
+    where $$\theta>0$$. Show that $$\bar Y$$ is a consistent estimator of $$\theta/(\theta+1)$$.
 
 
