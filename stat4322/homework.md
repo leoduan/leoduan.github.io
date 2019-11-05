@@ -56,3 +56,7 @@
     where $$\theta>0$$. Show that $$\bar Y$$ is a consistent estimator of $$\theta/(\theta+1)$$.
 
 [solution](./hw6sol-2019.pdf)
+
+*   homework 7 (due on Nov 13)
+[photo](./hw7-2019.pdf)
+
