@@ -57,6 +57,8 @@
 
 [solution](./hw6sol-2019.pdf)
 
+
 *   homework 7 (due on Nov 13)
+
 [photo](./hw7-2019.pdf)
 
