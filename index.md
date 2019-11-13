@@ -16,11 +16,6 @@ _***li dot duan at ufl dot edu***_
 
 I'm looking for graduate student interested in working at the intersection between non-parametric Bayes, neural network and neural network (pun intended).
 
-### Current Group Members
-
-Maoran Xu
-
-Yue Bai
 
 ### Research Interests
 
