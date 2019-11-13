@@ -8,23 +8,20 @@ I work as an Assistant Professor in the Department of Statistics at University o
 Email:
 _***li dot duan at ufl dot edu***_
 
-
 ### Research Interests
-
-1. Network modeling
+* Network modeling
 
 <img src="./network_corr.png" width="150"> <img src="./network_est_model.png" width="150">
 
-2. Unsupervised learning: clustering & interpretable dimension reduction
+* Unsupervised learning: clustering & interpretable dimension reduction
 
 <img src="./sign_partition.png" width="300"> 
 
-3. Bayesian non-parametrics via invertible transport
+* Optimization-based approach to posterior sampling  & approximation
 
 <img src="./transport.png" width="300">
 
-4. Optimization-based approach to posterior sampling  & approximation
-
+* Bayesian non-parametrics via invertible transport
 
 
 ### Course Links
