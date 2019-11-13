@@ -9,21 +9,19 @@ Email:
 _***li dot duan at ufl dot edu***_
 
 
-<img src="./dti.png" width="500">
-
-<img src="./eigenbrain1.png" width="300">
-
-
-I'm looking for graduate student interested in working at the intersection between non-parametric Bayes, neural network and neural network (pun intended).
-
-
 ### Research Interests
 
 1. Network modeling
 
+<img src="./network_corr.png" width="150"> <img src="./network_est_model.png" width="150">
+
 2. Unsupervised learning: clustering & interpretable dimension reduction
 
+<img src="./sign_partition.png" width="300"> 
+
 3. Bayesian non-parametrics via invertible transport
+
+<img src="./transport.png" width="300">
 
 4. Optimization-based approach to posterior sampling  & approximation
 
