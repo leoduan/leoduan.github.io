@@ -62,3 +62,7 @@
 
 [photo](./hw7-2019.pdf)
 
+*   homework 8 (due on Dec 2)
+
+[photo](./hw8-2019.pdf)
+
