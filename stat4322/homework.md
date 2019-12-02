@@ -61,8 +61,11 @@
 *   homework 7 (due on Nov 13)
 
 [photo](./hw7-2019.pdf)
+[solution](./hw7sol-2019.pdf)
+
 
 *   homework 8 (due on Dec 2)
 
 [photo](./hw8-2019.pdf)
+[solution](./hw8sol-2019.pdf)
 
