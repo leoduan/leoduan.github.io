@@ -26,11 +26,16 @@ _***li dot duan at ufl dot edu***_
 
 ### Course Links
 
-Spring 2019
-[Link to STA4321 / STA5325](./stat4321/start.html).
+
+Spring 2020
+[Link to STA7934](./stat7934/syllabus.html).
 
 Fall 2019
 [Link to STA4322 / STA5328](./stat4322/start.html).
+
+Spring 2019
+[Link to STA4321 / STA5325](./stat4321/start.html).
+
 
 
 
