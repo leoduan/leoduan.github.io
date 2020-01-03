@@ -43,10 +43,10 @@ Fall 2019
 
 ##### Statistical Methodology:
 
+*   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. Journal of Machine Learning Research, 2020 (accepted). https://arxiv.org/abs/1903.09029
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2019+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan. Transport Monte Carlo 2019+. http://arxiv.org/abs/1907.10448
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
-*   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. 2019+. https://arxiv.org/abs/1903.09029
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2019+. https://arxiv.org/abs/1810.08537
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019, accepted.
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. Neural Information Processing Systems Bayesian Nonparametrics Workshop, accepted 2018.
