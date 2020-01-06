@@ -19,7 +19,14 @@ Stephen Boyd and Lieven Vandenberghe.
 Open-access version of this book can be obtained on:
 https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 
-#### Grading:
+#### Useful Resources:
+
+https://web.stanford.edu/~boyd/cvxbook/
+
+https://www.stat.cmu.edu/~ryantibs/convexopt/
+
+
+#### Homework and Grading:
 The grade evaluation is based on 7 homeworks, each accounting for ~14.3% of the total grade. The planned due dates are
 
 | Homework  |   Date |
