@@ -28,7 +28,7 @@ _***li dot duan at ufl dot edu***_
 
 
 Spring 2020
-[Link to STA7934](./stat7934/syllabus.html).
+[Link to STA7934](./stat7934/start.html).
 
 Fall 2019
 [Link to STA4322 / STA5328](./stat4322/start.html).
