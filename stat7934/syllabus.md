@@ -45,7 +45,7 @@ The grade evaluation is based on 7 homeworks, each accounting for ~14.3% of the 
 2. ***No late homework will be accepted***, unless there is a medical reason with the doctor's note.
 
 
-#### Class Attendance and Make-up Exams:
+#### Class Attendance:
 
 You are expected to attend the class. Requirements for class attendance and make-up exams, assignments, and other work in this course are consistent with university policies that can be found at:
    https://catalog.ufl.edu/ugrad/current/regulations/info/attendance.aspx
