@@ -1,6 +1,6 @@
 # Leo Li Duan
 
-I'm a statistician working on Generalized Bayes. My current interest is to build a new set of probabilitic (aka Bayesian) models that exploit non-parametric Bayes, optimization & graph theory. The core application focus is on neuroscience.
+I'm a statistician working on Generalized Bayes. My current interest is to build a new set of probabilistic (aka Bayesian) models that exploit non-parametric Bayes, optimization & graph theory. The core application focus is on neuroscience.
 
 
 Email:
