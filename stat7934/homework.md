@@ -8,3 +8,7 @@ HW1 (due on Jan 27th):
 HW2 (due on Feb 10th):
 
 3.5, 3.18, 3.19, 3.21, 3.23
+
+HW2 (due on Feb 24th):
+
+4.2, 4.5, 4.7, 4.9, 4.22
