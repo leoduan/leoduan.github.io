@@ -5,7 +5,7 @@ I'm an assistant professor & statistician working on Generalized Bayes. My curre
 Email:
 _li dot duan at ufl dot edu_
 
-Note: **We don't provide summer internship in my lab**. 
+Note: **We don't provide summer internship in our lab**. 
 
 
 ### Research Interests
@@ -38,13 +38,14 @@ Spring 2019
 
 
 
-
 #### Awards
 - BNP@NeurIPS Award, Montreal 2018
 - Objective Bayes Workshop Travel Award, Austin 2017
 - Student Paper Award in Section on Bayesian Statistics Science, Joint Statistical Meetings, Seattle 2015
 
 #### Publications
+
+
 
 ##### Non-parametric Bayes of Things:
 *   Maoran Xu, Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2020+ https://arxiv.org/abs/2002.09606
