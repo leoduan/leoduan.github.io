@@ -1,10 +1,12 @@
 # Leo Li Duan
 
-I'm a statistician working on Generalized Bayes. My current interest is to build a new set of probabilistic (aka Bayesian) models that exploit non-parametric Bayes, optimization & graph theory. The core application focus is on neuroscience.
-
+I'm an assistant professor & statistician working on Generalized Bayes. My current interest is to build a new set of probabilistic (a.k.a. Bayesian) models that exploit non-parametric Bayes, optimization & graph theory. The core application focus is on neuroscience.
 
 Email:
-_***li dot duan at ufl dot edu***_
+_li dot duan at ufl dot edu_
+
+Note: **We don't provide summer internship in my lab**. 
+
 
 ### Research Interests
 * Network modeling
@@ -44,18 +46,19 @@ Spring 2019
 
 #### Publications
 
-##### Optimization-based Bayesian Models (& Computation)
+##### Optimization-based Bayesian Models Computation
 *   Leo L. Duan. Transport Monte Carlo 2020+. http://arxiv.org/abs/1907.10448
 *   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. Journal of Machine Learning Research, 2020.
 
-##### Non-parametric Bayes + ???:
+##### Non-parametric Bayes of Things:
+*   Maoran Xu, Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2020+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2020+. https://arxiv.org/abs/1810.08537
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
 
 ##### Scalable Bayes:
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
-*	Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
+*   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
 
 
 ##### Others:
