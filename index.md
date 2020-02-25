@@ -51,7 +51,7 @@ Spring 2019
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2020+. https://arxiv.org/abs/1810.08537
 
-##### Optimization-based Bayesian Models Computation
+##### Optimization-based Bayesian Models
 *   Leo L. Duan. Transport Monte Carlo 2020+. http://arxiv.org/abs/1907.10448
 *   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. Journal of Machine Learning Research, 2020.
 
