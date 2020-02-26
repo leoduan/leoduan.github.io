@@ -45,10 +45,8 @@ Spring 2019
 
 #### Publications
 
-
-
 ##### Non-parametric Bayes of Things:
-*   Maoran Xu, Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2020+ https://arxiv.org/abs/2002.09606
+*   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2020+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2020+. https://arxiv.org/abs/1810.08537
 
@@ -57,7 +55,7 @@ Spring 2019
 *   Leo L. Duan. Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification. Journal of Machine Learning Research, 2020.
 
 
-##### Scalable Bayes:
+##### Constrained Bayes and MCMC
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
 
