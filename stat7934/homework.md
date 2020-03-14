@@ -16,3 +16,6 @@ HW3 (due on Feb 24th):
 HW4 (due on Mar 9th):
 
 5.3, 5.7, 5.11, 5.23, 5.26
+
+HW5 (due on Mar 23rd):
+9.1, 9.4, 9.7, 9.8, 9.9
