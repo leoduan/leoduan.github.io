@@ -44,9 +44,9 @@ HW7 (due on Apr 27th)
 
    $$L_{\rho}(\Omega, Z, U) = tr(S\Omega) -\log\det(\Omega) + \lambda\|Z\|_1 + tr(U' (\Omega-Z))+\frac{\rho}{2} \|\Omega-Z\|_F^2$$
 
-   where $U\in \mathbb{S}^p$ 
+   where $$U\in \mathbb{S}^p$$
 
 
    (i) Write out the 3-step ADMM algorithm.
 
-   (ii) Prove the $\Omega^+$ is the minimum in step 1.
+   (ii) Prove  $$\Omega^+$$ is the minimum in step 1.
