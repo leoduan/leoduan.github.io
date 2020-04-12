@@ -28,7 +28,7 @@ HW6 (due on Apr 6th):
    regression under ridge and lasso regularization. Compare the number of
    iterations to converge.
 
-HW7 (due on Aug 27th)
+HW7 (due on Apr 27th)
 
 1. Consider the fused lasso problem:
 
