@@ -24,7 +24,25 @@ HW6 (due on Apr 6th):
 
 1. Code the Primal-Dual Interior Point algorithm for the QP under linear
    equality & inequality.
-
 2. Code gradient descent & subgradient method for solving the logistic
    regression under ridge and lasso regularization. Compare the number of
    iterations to converge.
+
+HW7 (due on Aug 27th)
+
+1. Consider the fused lasso problem:
+
+   $$\frac{1}{2}\|y- X\beta\|_2^2 + \lambda_1 \|\beta\|_1+ \lambda_2 \sum_{j=2}^p |\beta_j-\beta_{j-1}|$$
+
+   Derive the ADMM algorithm.
+
+2. For the graph lasso, consider augmented Lagrangian
+
+   $$L_{\rho}(\Omega, Z, U) = tr(S\Omega) -\log\det(\Omega) + \lambda\|Z\|_1 + tr(U' (\Omega-Z))+\frac{\rho}{2} \|\Omega-Z\|_F^2$$
+
+   where $U\in \mathbb{S}^p$ 
+
+
+   (i) Write out the 3-step ADMM algorithm.
+
+   (ii) Prove the $\Omega^+$ is the minimum in step 1.
