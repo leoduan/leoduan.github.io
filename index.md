@@ -18,27 +18,8 @@ Note: **We don't provide summer internship in our lab**.
 
 <img src="./transport.png" width="300">
 
-* Bayesian non-parametrics via invertible transport
 
 
-### Course Links
-
-
-Spring 2020
-[Link to STA7934](./stat7934/start.html).
-
-Fall 2019
-[Link to STA4322 / STA5328](./stat4322/start.html).
-
-Spring 2019
-[Link to STA4321 / STA5325](./stat4321/start.html).
-
-
-
-#### Awards
-- BNP@NeurIPS Award, Montreal 2018
-- Objective Bayes Workshop Travel Award, Austin 2017
-- Student Paper Award in Section on Bayesian Statistics Science, Joint Statistical Meetings, Seattle 2015
 
 #### Publications
 
@@ -67,3 +48,23 @@ Spring 2019
 *  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
 *  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
 *  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
+
+
+### Course Links
+
+Spring 2020: Convex Optimization
+[Link to STA7934](./stat7934/start.html).
+
+Fall 2019:
+[Link to STA4322 / STA5328](./stat4322/start.html).
+
+Spring 2019
+[Link to STA4321 / STA5325](./stat4321/start.html).
+
+
+
+#### Awards
+- BNP@NeurIPS Award, Montreal 2018
+- Objective Bayes Workshop Travel Award, Austin 2017
+- Student Paper Award in Section on Bayesian Statistics Science, Joint Statistical Meetings, Seattle 2015
+
