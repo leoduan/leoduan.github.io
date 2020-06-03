@@ -23,16 +23,18 @@ Note: **We don't provide summer internship in our lab**.
 
 #### Publications
 
+##### Bayesian Inference via Optimization and Approximation
+*   Maoran Xu and Leo L. Duan. L1-ball Prior: Uncertainty Quantification with Exact Zeros. 2020+  https://arxiv.org/abs/2006.01340
+*   Leo L. Duan. Transport Monte Carlo 2020+. http://arxiv.org/abs/1907.10448
+*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
+*   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
+
 ##### Network and Relational Data Modeling:
 *   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2020+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2020+. https://arxiv.org/abs/1810.08537
 *   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
 
-##### Bayesian Inference via Optimization and Approximation
-*   Leo L. Duan. Transport Monte Carlo 2020+. http://arxiv.org/abs/1907.10448
-*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
-*   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
 
 
 ##### Others:
