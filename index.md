@@ -29,10 +29,10 @@ Note: **We don't provide summer internship in our lab**.
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 *   Leo L. Duan. Transport Monte Carlo 2020+. http://arxiv.org/abs/1907.10448
 
+*   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
-*   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
 *   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
 *   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, 2017.
