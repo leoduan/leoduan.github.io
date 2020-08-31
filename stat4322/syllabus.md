@@ -9,19 +9,14 @@ Leo Li Duan
 email: li dot duan at ufl dot edu
 
 Office Hours:
-MWF 3:50-4:50pm
+TBD
 
 #### TA:
-Xiran Fan
-209 Griffin Floyd Hall
-
-Office Hours:
-Tue 1:00pm - 3:00pm
 
 #### Class Time:
 
-100 Griffin Floyd Hall
-MWF 3:00-3:50pm
+Zoom
+M,W,F | Period 7 (1:55 PM - 2:45 PM)
 
 #### Required Textbox:
 
@@ -43,9 +38,9 @@ The total score grade consists of:
 | Percentage | Source | Date |
 | ---- | ----------------- | ------------------------------- |
 | 25%  | Homework          |                                 |
-| 25%  | 1st exam | in class, Sep 27 |
-| 25%  | 2nd exam | in class, Nov 1 |
-| 25%  | 3nd exam | in class, Dec 4  |
+| 25%  | 1st exam |  |
+| 25%  | 2nd exam | |
+| 25%  | 3nd exam |   |
 
 
 Note: if there's any disagreement on the score you get for homework / exam, you have *one week of time to appeal* to the instructor after getting your exams back.
@@ -74,3 +69,8 @@ Students with disabilities requesting accommodations should first register with 
 
 #### Online Course Evaluation Process:
 Students are expected to provide feedback on the quality of instruction in this course by completing online evaluations at https://evaluations.ufl.edu. Evaluations are typically open during the last two or three weeks of the semester, but students will be given specific times when they are open. Summary results of these evaluations are available to students at https://evaluations.ufl.edu/results/.
+
+#### Zoom recording policy
+
+Our class sessions may be audio-visually recorded for students in the class to refer back and for enrolled students who are unable to attend live. Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded.  If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate orally are agreeing to have their voice recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live. The chat will not be recorded or shared. As in all courses, unauthorized recording and unauthorized sharing of recorded materials by students or any other party is prohibited.
+

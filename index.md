@@ -48,6 +48,9 @@ Note: **We don't provide summer internship in our lab**.
 
 ### Course Links
 
+Fall 2020:
+[Link to STA4322 / STA5328](./stat4322/start.html).
+
 Spring 2020: Convex Optimization
 [Link to STA7934](./stat7934/start.html).
 
