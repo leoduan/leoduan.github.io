@@ -1,6 +1,6 @@
 Hey y'all, I'm an assistant professor of Statistics at University of Florida.
 
-My research group focus on the methods and theory of the *Combinatorial Inferences*.
+My research group focus on the methods and theory of the ***Bayesian Combinatorial Inferences***.
 
 Combinatorial objects are very common in statistics and machine learning, for
 example, clustering, multi-scale partitioning, tree-graphs, networks,
@@ -47,6 +47,13 @@ To put our papers in a few categories:
 *  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
 *  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
 *  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
+
+
+# Courses
+
+*  Introduction to Statistical Theory 2018,2019
+*  Convex Optimization 2020
+*  Statistical Computing 2020, 2021
 
 
 
