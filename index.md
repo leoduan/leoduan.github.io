@@ -36,7 +36,7 @@ To put our papers in a few categories:
 *   Leo L. Duan. Transport Monte Carlo 2021+. http://arxiv.org/abs/1907.10448
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. **Journal of Machine Learning Research**, 2018.
 
-##Early papers
+5. Early papers
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
 *   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
