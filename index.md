@@ -1,5 +1,6 @@
 Hey y'all, I'm an assistant professor of Statistics at University of Florida.
 
+# Research Interest
 My research group focus on the methods and theory of the ***Bayesian Combinatorial Inferences***.
 
 Combinatorial objects are very common in statistics and machine learning, for
@@ -14,27 +15,27 @@ theory that were previously unthinkable.
 
 To put our papers in a few categories: 
 
-## Use Optimization Tricks to Build Bayesian Combinatorial Models
+### Use Optimization Tricks to Build Bayesian Combinatorial Models
 *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. Forthcoming 2021
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2021+  https://arxiv.org/abs/2006.01340
 *   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2021+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. **Biometrika** 2019.
 
-## Use Spanning Trees and Lapacian for Graph Modeling
+### Use Spanning Trees and Lapacian for Graph Modeling
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. Forthcoming 2021.
 *   Leo L. Duan and David Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. Forthcoming 2021.
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2021+. http://arxiv.org/abs/1910.02471
 
-## Clustering and Asymptotics
+### Clustering and Asymptotics
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537
 *   Cheng Zeng and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
 *   Leo L. Duan. Latent Simplex Position Model. **Journal of Machine Learning Research**, 2020.
 
-## Bayesian Posterior Computation
+### Bayesian Posterior Computation
 *   Leo L. Duan. Transport Monte Carlo 2021+. http://arxiv.org/abs/1907.10448
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. **Journal of Machine Learning Research**, 2018.
 
-## Early papers
+### Early papers
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
 *   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
 *   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
@@ -49,13 +50,11 @@ To put our papers in a few categories:
 *  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
 
 
-# Courses
+# Courses Taught
 
 *  Introduction to Statistical Theory 2018,2019
 *  Convex Optimization 2020
 *  Statistical Computing 2020, 2021
-
-
 
 # Academic Services
 Reviewer for:
@@ -66,6 +65,6 @@ Biometrics,
 AISTATS,
 NeurIPS
 
-# Contact:
+# Contact Info
 Interesting in working with me? Send me an email!
 _li dot duan at ufl dot edu_
