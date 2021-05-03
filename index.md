@@ -12,25 +12,27 @@ constraints. My research group have discovered an interesting set of useful math
 tools that can bypass the combinatorial hurdles, letting us to build models and
 theory that were previously unthinkable.
 
+#### Publication
+
 To put our papers in a few categories: 
 
-##Use Optimization Tricks to Build Bayesian Combinatorial Models
+1. Use Optimization Tricks to Build Bayesian Combinatorial Models
 *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. Forthcoming 2021
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2021+  https://arxiv.org/abs/2006.01340
 *   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2021+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. **Biometrika** 2019.
 
-##Use Spanning Trees and Lapacian for Graph Modeling
+2. Use Spanning Trees and Lapacian for Graph Modeling
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. Forthcoming 2021.
 *   Leo L. Duan and David Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. Forthcoming 2021.
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2020+. http://arxiv.org/abs/1910.02471
 
-##Clustering and Asymptotics
+3. Clustering and Asymptotics
 *   Leo L. Duan. Latent Simplex Position Model. **Journal of Machine Learning Research**, 2021.
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537
 *   Cheng Zeng and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
 
-#Bayesian Posterior Computation
+4. Bayesian Posterior Computation
 *   Leo L. Duan. Transport Monte Carlo 2021+. http://arxiv.org/abs/1907.10448
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. **Journal of Machine Learning Research**, 2018.
 
@@ -52,11 +54,11 @@ To put our papers in a few categories:
 
 #### Academic Service
 Reviewer for:
-Journal of Machine Learning Research
-Journal of the American Statistical Association
-Statistical Sinica
-Biometrics
-AISTATS
+Journal of Machine Learning Research,
+Journal of the American Statistical Association,
+Statistical Sinica,
+Biometrics,
+AISTATS,
 NeurIPS
 
 #### Email:
