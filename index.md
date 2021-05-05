@@ -4,12 +4,12 @@ Hey y'all, I'm an assistant professor of Statistics at University of Florida.
 My research group focus on the methods and theory of the ***Bayesian Combinatorial Inferences***.
 
 Combinatorial objects are very common in statistics and machine learning, for
-example, clustering, multi-scale partitioning, tree-graphs, networks,
+example, clustering, multi-scale partitioning, tree graphs, networks,
 change-point/boundary detection, etc.  A major challenge is in the high
-complexity of the parameter space, due to discreteness and combinatorial
-constraints. Amazingly, my research group have discovered and are building an interesting set of mathematical
-tools that can directly bypass the combinatorial hurdles, letting us to develop models and
-theory that were previously unthinkable.
+complexity of the parameter space, due to the discreteness and combinatorial
+constraints. My research group have been discovering / building a set of
+interesting mathematical tools that can directly bypass the combinatorial
+hurdles, letting us develop models and theory that were previously unthinkable.
 
 # Publications
 
