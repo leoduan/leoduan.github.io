@@ -67,5 +67,5 @@ AISTATS,
 NeurIPS
 
 # Contact Info
-Interesting in working with me? Send me an email!
+Interested in working with me? Send me an email!
 _li dot duan at ufl dot edu_
