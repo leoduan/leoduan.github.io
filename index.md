@@ -22,9 +22,9 @@ To put our papers in a few categories:
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. **Biometrika** 2019.
 
 ### Use Spanning Trees and Lapacian for Graph Modeling
+*   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2021+. https://arxiv.org/abs/2106.16120
 *   Arkaprava Roy and Leo L. Duan.  Bayesian Spectral Clustering via the Forest Process. Forthcoming 2021.
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. Forthcoming 2021.
-*   Leo L. Duan and David Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2021+. https://arxiv.org/abs/2106.16120
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2021+. http://arxiv.org/abs/1910.02471
 
 ### Clustering and Asymptotics
