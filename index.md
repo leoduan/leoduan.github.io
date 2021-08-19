@@ -16,7 +16,7 @@ hurdles, letting us develop models and theory that were previously unthinkable.
 To put our papers in a few categories: 
 
 ### Use Optimization Tricks to Build Bayesian Combinatorial Models
-*   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. Forthcoming 2021
+*   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2021+  https://arxiv.org/abs/2006.01340
 *   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2021+ https://arxiv.org/abs/2002.09606
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. **Biometrika** 2019.
