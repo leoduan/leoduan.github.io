@@ -29,7 +29,7 @@ To put our papers in a few categories:
 
 ### Clustering and Asymptotics
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537
-*   Cheng Zeng and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
+*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
 *   Leo L. Duan. Latent Simplex Position Model. **Journal of Machine Learning Research**, 2020.
 
 ### Bayesian Posterior Computation
