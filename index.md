@@ -11,6 +11,10 @@ constraints. My research group have been discovering / building a set of
 interesting mathematical tools that can directly bypass the combinatorial
 hurdles, letting us develop models and theory that were previously unthinkable.
 
+# Contact Info
+PhD student interested in working with us? Send me an email!
+_li dot duan at ufl dot edu_
+
 # Publications
 
 To put our papers in a few categories: 
@@ -66,6 +70,3 @@ Biometrics,
 AISTATS,
 NeurIPS
 
-# Contact Info
-Interested in working with me? Send me an email!
-_li dot duan at ufl dot edu_
