@@ -32,15 +32,11 @@ To put our papers in a few categories:
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2021+. http://arxiv.org/abs/1910.02471
 
 ### Clustering and Asymptotics
-<<<<<<< HEAD
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537
 *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
 *   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
-=======
-*   Leo L. Duan. Latent Simplex Position Model. **Journal of Machine Learning Research**, 2020.
-*   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537, **Journal of Machine Learning Research** (accepted pending minor revisions), 2021.
+*   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. 2021+. https://arxiv.org/abs/1810.08537.
 *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2021+  https://arxiv.org/abs/2008.09938
->>>>>>> 3e3dbca3a35f7bc9b2e93b9e16ff0a7bc6d1ed22
 
 ### Bayesian Posterior Computation
 *   Leo L. Duan. Transport Monte Carlo 2021+. http://arxiv.org/abs/1907.10448
