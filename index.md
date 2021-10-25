@@ -21,7 +21,7 @@ _li dot duan at ufl dot edu_
 *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2021+. https://arxiv.org/abs/2106.16120
 *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2021+  https://arxiv.org/abs/2006.01340
-*   Maoran Xu and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2021+ https://arxiv.org/abs/2002.09606
+*   Maoran Xu, Meng Li and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2021+ https://arxiv.org/abs/2002.09606
 *   Arkaprava Roy and Leo L. Duan.  Bayesian Spectral Clustering via the Forest Process. Forthcoming 2021.
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. Forthcoming 2021.
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2021+. http://arxiv.org/abs/1910.02471
