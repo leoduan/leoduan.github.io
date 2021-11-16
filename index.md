@@ -26,10 +26,10 @@ _li dot duan at ufl dot edu_
 *   Tikhonov, Gleb, Leo L. Duan, Nerea Abrego, Graeme Newell, Matt White, David Dunson, and Otso Ovaskainen. Computationally efficient joint species distribution modeling of big spatial data. Ecology 101, no. 2 (2020): e02929.
 *   Szczesniak, Rhonda D., Teresa Pestian, Leo L. Duan, Dan Li, Sophia Stamper, Brycen Ferrara, Elizabeth Kramer, John P. Clancy, and Daniel Grossoehme. Data driven decision making to characterize clinical personas of parents of children with cystic fibrosis: a mixed methods study. BMC pulmonary medicine 20, no. 1 (2020): 1-14.
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
+*   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019.
+*   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018.
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
-*   Yue Bai and Leo L. Duan. Tuning-Free Disentanglement via Projected Variational Autoencoder  2019+. https://arxiv.org/abs/1906.11732
-*   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Mixed-Stationary Gaussian Process for Flexible Non-Stationary Modeling of Spatial Outcomes. 2018+.
 *   Leo L. Duan, Rhonda D. Szczesniak, and Xia Wang. Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data. Environmetrics, 2017.
 *   Leo L. Duan, John P. Clancy, and Rhonda D. Szczesniak. Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data. Journal of Computational and Graphical Statistics, 25(3):748–761, 2016.
 *	Otso Ovaskainen, Gleb Tikhonov, Anna Norberg, F. Guillaume Blanchet, Leo L. Duan, David B. Dunson, Tomas Roslin, and Nerea Abrego. How to Make More Out of Community Data? A Conceptual Framework and Its Implementation as Models and Software. Ecology Letters, 20(5):561–576, 2017.
