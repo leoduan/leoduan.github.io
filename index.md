@@ -20,9 +20,11 @@ _li dot duan at ufl dot edu_
 
 ##  Published
 
-*   Leo L. Duan. Transport Monte Carlo. Journal of the American Statistical Association (accepted, in press), 2021. http://arxiv.org/abs/1907.10448
+*   Leo L. Duan. Transport Monte Carlo. Journal of the American Statistical Association, 2021.
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. Journal of Machine Learning Research, 2021.
 *   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
+*   Tikhonov, Gleb, Leo L. Duan, Nerea Abrego, Graeme Newell, Matt White, David Dunson, and Otso Ovaskainen. Computationally efficient joint species distribution modeling of big spatial data. Ecology 101, no. 2 (2020): e02929.
+*   Szczesniak, Rhonda D., Teresa Pestian, Leo L. Duan, Dan Li, Sophia Stamper, Brycen Ferrara, Elizabeth Kramer, John P. Clancy, and Daniel Grossoehme. Data driven decision making to characterize clinical personas of parents of children with cystic fibrosis: a mixed methods study. BMC pulmonary medicine 20, no. 1 (2020): 1-14.
 *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
 *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. Journal of Machine Learning Research, 2018.
 *   Leo L. Duan and Jeffrey W. Miller. Distribution-based Clustering using Characteristic Function. NeurIPS Bayesian Nonparametrics Workshop 2018.
