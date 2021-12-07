@@ -1,4 +1,4 @@
-Hey y'all, I'm an assistant professor of Statistics at University of Florida.
+I'm an assistant professor of Statistics at University of Florida.
 
 # Research Interest
 My research group focus on the methods and theory of the ***Bayesian Combinatorial Inferences***.
