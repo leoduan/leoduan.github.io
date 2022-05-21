@@ -2,7 +2,7 @@ I'm an assistant professor of Statistics at University of Florida.
 I'm an assistant professor of Statistics at University of Florida.
 
 # Research Interests
-My recent research interests are on the following two areas (with some representative works listed):
+My recent research interests are mainly in the following two areas (with some representative works listed):
 
 1.	The intersection between Optimization & Bayesian inference. This includes:
 
