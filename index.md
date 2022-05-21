@@ -4,27 +4,27 @@ I'm an assistant professor of Statistics at University of Florida.
 # Research Interests
 My recent research interests are mainly in the following two areas (with some representative works listed):
 
-1.	The intersection between Optimization & Bayesian inference. This includes:
+1.	The intersection between **Optimization & Bayesian inference**. This includes:
 
-(1) using optimization to build new priors on low-dimensional geometric spaces.
-*   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
-*   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2022+  https://arxiv.org/abs/2006.01340
-*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
+    (1) using optimization to build new priors on low-dimensional geometric spaces.
+    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
+    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2022+  https://arxiv.org/abs/2006.01340
+    *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
 
-(2) using optimization to do uncertainty quantification under generative models.
-*   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. Journal of the American Statistical Association, 2021.
+    (2) using optimization to do uncertainty quantification under generative models.
+    *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. Journal of the American Statistical Association, 2021.
 
-2.	The intersection between Graph objects & Statistics. This includes:
+2.	The intersection between **Graph objects & Statistics**. This includes:
 
-(1)	using spanning tree/forest for statistical modeling.
+    (1)	using spanning tree/forest for statistical modeling.
 
-*   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
-*   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
+    *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
+    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
 
-(2)	uncertainty quantification related to graph Laplacians.
+    (2)	uncertainty quantification related to graph Laplacians.
 
-*   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
-*   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2022+. http://arxiv.org/abs/1910.02471
+    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
+    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2022+. http://arxiv.org/abs/1910.02471
 
 # Current PhD students
 Maoran Xu,
