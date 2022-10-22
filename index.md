@@ -1,56 +1,64 @@
-I'm an assistant professor of Statistics at University of Florida.
+#### Hello, thanks for checking out my website.
+
+#### I'm Leo Duan. I'm a statistician and an assistant professor working at University of Florida since 2018. Prior to that, I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015 under the supervision of Rhonda Szczesniak and Xia Wang, worked a year as a "data scientist" in the tech sector, and spent two years as a postdoc working with David Dunson at Johns Hopkins and Duke University.
+
+<img src="photo.jpg" alt="drawing" width="800"/>
 
 # Research Interests
-My recent research interests are mainly in the following two areas (with some representative works listed):
+My recent research focuses on the following areas (with some representative works):
 
-1.	The intersection between **Optimization & Bayesian inference**. This includes:
+1.	**Optimization $\cap$ Bayes**:
 
-    (1) using optimization to build new priors on low-dimensional geometric spaces.
-    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
-    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2022+  https://arxiv.org/abs/2006.01340
+    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. (revision submitted to JASA 2022) https://arxiv.org/abs/2108.04851
+    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. (revision submitted to JRSSB 2022)  https://arxiv.org/abs/2006.01340 
+    *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
+    *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
     *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
+    *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
+2.	**Graph, Clustering $\cap$ Bayes**:
 
-    (2) using optimization to do uncertainty quantification under generative models.
-    *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. Journal of the American Statistical Association, 2021.
-
-2.	The intersection between **Graph objects & Statistics**. This includes:
-
-    (1)	using spanning tree/forest for statistical modeling.
-
-    *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
-    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
-
-    (2)	uncertainty quantification related to graph Laplacians.
-
+    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (revision submitted to JMLR 2022). http://arxiv.org/abs/1910.0247
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
-    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2022+. http://arxiv.org/abs/1910.02471
+    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
+    *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
+    *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-# Current PhD students
-Maoran Xu,
-Cheng Zeng,
+
+# Current and Former PhD students
+Maoran Xu (Graduated 2022),
 Eleni Dilma,
-Zeyu Yuwen,
+Cheng Zeng,
 Yu Zheng
+Yaozhi Yang
 
 # Contact Info
 PhD student interested in working with us? Send me an email!
 _li dot duan at ufl dot edu_
 
+# Academic Services
+####  Associate Editor of 
+Data Science in Science
+
+#### Reviewer for
+AISTATS, Bayesian Analysis, Bernoulli, Biometrics, Journal of Machine Learning Research, Journal of the American Statistical Association, Statistics in Medicine, Statistical Sinica, NeurIPS
+
+
+
+
 # Publications
 
-## Recent Preprints and Working Papers
+For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
+
+
+*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2022+  https://arxiv.org/abs/2008.09938
+* Badea, Alexandra, Jacques A. Stout, Robert J. Anderson, Gary P. Cofer, Leo L. Duan, and Joshua T. Vogelstein. "Imaging Biomarkers for Alzheimer’s Disease Using Magnetic Resonance Microscopy." Magnetic Resonance Microscopy: Instrumentation and Applications in Engineering, Life Science, and Energy Research (2022).
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
 *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
 *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. 2021+ https://arxiv.org/abs/2108.04851
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. 2022+  https://arxiv.org/abs/2006.01340
 *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
 *   Maoran Xu, Meng Li and Leo L. Duan. Bayesian Multi-scale Modeling of Factor Matrix without using Partition Tree. 2022+ https://arxiv.org/abs/2002.09606
-*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2022+  https://arxiv.org/abs/2008.09938
 *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. 2022+. http://arxiv.org/abs/1910.02471
-
-
-##  Published
-
 *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. Journal of the American Statistical Association, 2021.
 *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. Journal of Machine Learning Research, 2021.
 *   Leo L. Duan. Latent Simplex Position Model. Journal of Machine Learning Research, 2020.
@@ -70,21 +78,4 @@ _li dot duan at ufl dot edu_
 *  Kavitha Kotha, Rhonda D. Szczesniak, Anjaparavanda P Naren, Matthew C Fenchel, Leo L. Duan, Gary L McPhail, and John P. Clancy. Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored Cftr Function. Journal of Cystic Fibrosis, 14(6):733–740, 2015. 
 *  Rhonda D. Szczesniak, Leo L. Duan, Gary L McPhail, Barbara B. Chini, Laurie Kahill, Maurizio Macaluso, Raouf S. Amin, and John P. Clancy. Determinants for the Early Onset of Rapid FEV1 Decline in Cystic Fibrosis. Pediatric Pulmonology, 48:368, 2013.
 *  Rhonda D. Szczesniak, Gary L. McPhail, Leo L. Duan, Maurizio Macaluso, Raouf S Amin, and John P. Clancy. A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis. Annals of Epidemiology, 23(12):771–777, 2013.
-
-
-
-# Courses Taught
-
-*  Introduction to Statistical Theory 2018,2019
-*  Convex Optimization 2020
-*  Statistical Computing 2020, 2021
-
-# Academic Services
-Reviewer for:
-Journal of Machine Learning Research,
-Journal of the American Statistical Association,
-Statistical Sinica,
-Biometrics,
-AISTATS,
-NeurIPS
 
