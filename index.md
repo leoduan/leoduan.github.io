@@ -1,9 +1,3 @@
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-</script>
-2.3 Including MathML
-
-
 #### Hello, thanks for checking out my website.
 
 #### I'm Leo Duan. I'm a statistician and an assistant professor working at University of Florida since 2018. Prior to that, I obtained my PhD from Department of Mathematics at University of Cincinnati in 2015 under the supervision of Rhonda Szczesniak and Xia Wang, worked a year as a "data scientist" in the tech sector, and spent two years as a postdoc working with David Dunson at Johns Hopkins and Duke University.
