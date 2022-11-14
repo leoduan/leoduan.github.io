@@ -17,7 +17,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 2.	**Graph, Clustering $\cap$ Bayes**:
 
-    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (revision submitted to JMLR 2022). http://arxiv.org/abs/1910.0247
+    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (accepted pending minor revision, JMLR 2022). http://arxiv.org/abs/1910.0247
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
