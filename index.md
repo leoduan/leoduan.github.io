@@ -19,6 +19,7 @@ My recent research focuses on the following areas (with some representative work
 
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (accepted pending minor revision, JMLR 2022). http://arxiv.org/abs/1910.0247
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
+    *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. (revision at JMLR 2022)  https://arxiv.org/abs/2008.09938
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
@@ -50,7 +51,6 @@ AISTATS, Bayesian Analysis, Bernoulli, Biometrics, Journal of Machine Learning R
 For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
 
 
-*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. 2022+  https://arxiv.org/abs/2008.09938
 * Badea, Alexandra, Jacques A. Stout, Robert J. Anderson, Gary P. Cofer, Leo L. Duan, and Joshua T. Vogelstein. "Imaging Biomarkers for Alzheimer’s Disease Using Magnetic Resonance Microscopy." Magnetic Resonance Microscopy: Instrumentation and Applications in Engineering, Life Science, and Energy Research (2022).
 *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573 
 *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
