@@ -7,7 +7,7 @@
 # Research Interests
 My recent research focuses on the following areas (with some representative works):
 
-1.	**Optimization $\cap$ Bayes**:
+1.	**Optimization & Bayes**:
 
     *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. (revision submitted to JASA 2022) https://arxiv.org/abs/2108.04851
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. (revision submitted to JRSSB 2022)  https://arxiv.org/abs/2006.01340
@@ -15,7 +15,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
     *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
-2.	**Graph, Clustering $\cap$ Bayes**:
+2.	**Graph, Clustering & Bayes**:
 
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (accepted pending minor revision, JMLR 2022). http://arxiv.org/abs/1910.0247
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
