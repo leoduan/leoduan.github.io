@@ -17,7 +17,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 2.	**Graph, Clustering & Bayes**:
 
-    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. (accepted pending minor revision, JMLR 2022). http://arxiv.org/abs/1910.02471
+    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. 2022+ https://arxiv.org/abs/2202.00493
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. (revision at JMLR 2022)  https://arxiv.org/abs/2008.09938
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. 2022+. https://arxiv.org/abs/2106.16120
