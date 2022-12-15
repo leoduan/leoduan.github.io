@@ -24,6 +24,16 @@ My recent research focuses on the following areas (with some representative work
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior. 2022+ https://arxiv.org/abs/2204.01573
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
+# Selected Honors and Awards
+
+2022 UF CLAS Faculty Travel Award
+2022 UFII SEED Funding Award
+2021 UF Statistics Faculty Award for the Supervised Student (Maoran Xu)
+2018 NeurIPS Bayesian Non-parametrics Award
+2015 ASA Paper Competition Award in Section on Bayesian Statistical Science
+2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
+2013 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
+
 
 # Current and Former PhD students
 Maoran Xu (Graduated 2022),
