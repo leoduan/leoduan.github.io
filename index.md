@@ -9,7 +9,7 @@ My recent research focuses on the following areas (with some representative work
 
 1.	**Optimization & Bayes**:
 
-    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. (revision at JASA 2022+) https://arxiv.org/abs/2108.04851
+    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality. (minor revision at JASA 2023) https://arxiv.org/abs/2108.04851
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. (revision at JRSSB 2022+)  https://arxiv.org/abs/2006.01340
     *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
     *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
