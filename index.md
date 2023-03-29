@@ -26,9 +26,13 @@ My recent research focuses on the following areas (with some representative work
 # Recent and upcoming talks:
 
 June 2023, International Conference on Monte Carlo Methods and Applications in Paris
+
 June 2023, International Indian Statistical Association 2023 Conference in Colorado
+
 May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
+
 January 2023, Seminar Talk at Texas A&M University, Department of Statistics
+
 October 2022, International Conference on Bayesian Nonparametrics
 
 # Selected Honors and Awards
