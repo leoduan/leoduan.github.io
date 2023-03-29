@@ -23,7 +23,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-# Recent and upcoming talks:
+# Recent and Upcoming talks:
 
 June 2023, International Conference on Monte Carlo Methods and Applications in Paris
 
@@ -53,15 +53,13 @@ October 2022, International Conference on Bayesian Nonparametrics
 
 
 # Current and Former PhD students
-Maoran Xu (Graduated 2022),
+Eleni Dilma
 
-Eleni Dilma,
+Cheng Zeng
 
-Cheng Zeng,
+Yu Zheng
 
-Yu Zheng,
-
-Yaozhi Yang
+Maoran Xu (Graduated 2022)
 
 # Contact Info
 PhD student interested in working with us? Send me an email!
