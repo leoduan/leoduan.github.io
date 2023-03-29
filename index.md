@@ -23,7 +23,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-# Recent and Upcoming talks:
+# Recent and Upcoming Talks:
 
 June 2023, International Conference on Monte Carlo Methods and Applications in Paris
 
