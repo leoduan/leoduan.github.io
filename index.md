@@ -13,7 +13,7 @@ Summer 2023, International Indian Statistical Association 2023 Conference in Col
 
 January 2023, Seminar Talk at Texas A&M University, Department of Statistics
 
-October 2022, International Conference on Bayesian Nonparametrics
+October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
 
 
 # Research Interests
