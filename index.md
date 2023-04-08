@@ -1,8 +1,20 @@
 #### Hello, thanks for checking out my website.
 
-#### I'm Leo Duan. I'm a statistician and an assistant professor working at University of Florida since 2018. Prior to that, I obtained my PhD in Mathematics at University of Cincinnati in 2015 under the supervision of Rhonda Szczesniak and Xia Wang, worked a year as a data scientist in the tech sector, and spent two years as a postdoc working with David Dunson at Johns Hopkins and Duke University.
+I'm Leo Duan. I'm a statistician and an assistant professor working at University of Florida since 2018. Prior to that, I obtained my PhD in Mathematics at University of Cincinnati in 2015 under the supervision of Rhonda Szczesniak and Xia Wang, worked a year as a data scientist in the tech sector, and spent two years as a postdoc working with David Dunson at Johns Hopkins and Duke University.
 
 <img src="photo.jpg" alt="drawing" width="800"/>
+
+
+# Recent and Upcoming Talks:
+
+May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
+
+Summer 2023, International Indian Statistical Association 2023 Conference in Colorado
+
+January 2023, Seminar Talk at Texas A&M University, Department of Statistics
+
+October 2022, International Conference on Bayesian Nonparametrics
+
 
 # Research Interests
 My recent research focuses on the following areas (with some representative works):
@@ -23,15 +35,6 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-# Recent and Upcoming Talks:
-
-June 2023, International Indian Statistical Association 2023 Conference in Colorado
-
-May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
-
-January 2023, Seminar Talk at Texas A&M University, Department of Statistics
-
-October 2022, International Conference on Bayesian Nonparametrics
 
 # Selected Honors and Awards
 
