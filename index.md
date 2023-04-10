@@ -51,8 +51,6 @@ My recent research focuses on the following areas (with some representative work
 
 2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
 
-2013 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
-
 
 # Current and Former PhD students
 Eleni Dilma
