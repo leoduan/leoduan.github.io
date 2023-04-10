@@ -27,11 +27,12 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
     *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
+
 2.	**Graph, Clustering & Bayes**:
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. (revision at JMLR 2023)  https://arxiv.org/abs/2106.16120
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior.  (revision at JMLR 2023)  https://arxiv.org/abs/2204.01573
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. (revision submitted to JMLR 2023)  https://arxiv.org/abs/2008.09938
-    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. (revision at JASA 2023) https://arxiv.org/abs/2202.00493
+    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. (revision submitted to JASA 2023) https://arxiv.org/abs/2202.00493
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
