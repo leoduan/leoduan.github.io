@@ -5,15 +5,7 @@ I'm Leo Duan. I'm a statistician and an assistant professor working at Universit
 <img src="photo.jpg" alt="drawing" width="800"/>
 
 
-# Recent and Upcoming Talks:
 
-May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
-
-Summer 2023, International Indian Statistical Association 2023 Conference in Colorado
-
-January 2023, Seminar Talk at Texas A&M University, Department of Statistics
-
-October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
 
 
 # Research Interests
@@ -51,6 +43,14 @@ My recent research focuses on the following areas (with some representative work
 
 2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
 
+
+# Recent and Upcoming Talks:
+
+May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
+
+January 2023, Seminar Talk at Texas A&M University, Department of Statistics
+
+October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
 
 # Current and Former PhD students
 Eleni Dilma
