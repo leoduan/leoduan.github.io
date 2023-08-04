@@ -13,7 +13,7 @@ My recent research focuses on the following areas (with some representative work
 
 1.	**Optimization & Bayes**:
 
-    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB (in press), 2023
+    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
     *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
     *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
     *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
@@ -21,10 +21,10 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 
 2.	**Graph, Clustering & Bayes**:
+	 *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023. (in press)
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. (revision at JMLR 2023)  https://arxiv.org/abs/2106.16120
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior.  (revision at JMLR 2023)  https://arxiv.org/abs/2204.01573
-    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. (revision submitted to JASA 2023) https://arxiv.org/abs/2202.00493
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022. http://arxiv.org/abs/1910.02471
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
