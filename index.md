@@ -31,7 +31,7 @@ My recent research focuses on the following areas (with some representative work
 
 # Selected Fundings and Awards
 
-2023-2026 NSF Funding Award (PI)
+2023-2026 NSF Funding Award (PI): Risk mitigation for human movement dynamics under hurricane threats. With Yujie Hu and George Michailidis.
 
 2022 UF CLAS Faculty Travel Award
 
