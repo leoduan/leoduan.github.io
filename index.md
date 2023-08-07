@@ -35,7 +35,7 @@ My recent research focuses on the following areas (with some representative work
 
 2022 UF CLAS Faculty Travel Award
 
-2022 UFII SEED Funding Award
+2022-2023 UFII SEED Funding Award
 
 2021 UF Statistics Faculty Award for the Supervised Student (Maoran Xu)
 
