@@ -72,14 +72,6 @@ Maoran Xu (Graduated 2022)
 PhD student interested in working with us? Send me an email!
 _li dot duan at ufl dot edu_
 
-# Academic Services
-####  Associate Editor of
-Data Science in Science
-
-#### Reviewer for
-AISTATS, Bayesian Analysis, Bernoulli, Biometrics, Journal of Machine Learning Research, Journal of the American Statistical Association, Statistics in Medicine, Statistical Sinica, NeurIPS
-
-
 
 
 # Publications
