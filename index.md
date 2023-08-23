@@ -21,7 +21,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 
 2.	**Graph, Clustering & Bayes**:
-    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023. (in press)
+    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. (revision at JMLR 2023)  https://arxiv.org/abs/2106.16120
     *   Zeyu Yuwen, George Michailidis, Zhengwu Zhang and Leo L. Duan.  Bayesian Vector Autoregression using the Tree Rank Prior.  (revision at JMLR 2023)  https://arxiv.org/abs/2204.01573
@@ -31,7 +31,7 @@ My recent research focuses on the following areas (with some representative work
 
 # Selected Fundings and Awards
 
-2023-2026 NSF Funding Award (PI).
+2023-2026 NSF Funding Award (PI)
 
 2022 UF CLAS Faculty Travel Award
 
@@ -55,11 +55,16 @@ January 2023, Seminar Talk at Texas A&M University, Department of Statistics
 October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
 
 # Current and Former PhD students
-Eleni Dilma
+
+Yaozhi Yang
+
+Yu Zheng
 
 Cheng Zeng
 
-Yu Zheng
+Eleni Dilma
+
+Heejun Shin (Advised by Prof. Antonelli)
 
 Maoran Xu (Graduated 2022)
 
