@@ -12,7 +12,8 @@ I'm Leo Duan. I'm a statistician and an assistant professor working at Universit
 My recent research focuses on the following areas (with some representative works):
 
 1.	**Optimization & Bayes**:
-   
+
+    *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. In preparation.
     *   Cheng Zeng*, Eleni Dilma*, Jason Xu, Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors. In preparation.
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
     *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
@@ -21,7 +22,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 
-2.	**Graph, Clustering & Bayes**:
+1.	**Graph, Clustering & Bayes**:
    
     *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov chain Monte Carlo. In preparation.
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
