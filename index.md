@@ -24,7 +24,7 @@ My recent research focuses on the following areas (with some representative work
 
 2.	**Graph, Clustering & Bayes**:
    
-    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. [pdf](papers/graph_acc.pdf) 2024+  
+    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. [pdf](https://arxiv.org/abs/2401.14186) 2024+  
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
