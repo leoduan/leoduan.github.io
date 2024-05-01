@@ -9,10 +9,23 @@ I'm Leo Duan. I'm a statistician and an assistant professor working at Universit
 
 
 # Research Interests
-My recent research focuses on the following areas (with some representative works):
+My recent research focuses on the following areas (listing recent works):
 
-1.	**Optimization & Bayes**:
+1.	**Graph, Clustering & Bayes**:
+    *   Yu Zheng and Leo L. Duan. An Elementary Proof to Extended Aldous-Broder Theorem (2024+)
+    *   Leo L. Duan and Arkaprava Roy. High-dimensional Model-based Clustering using Uncountable Mixtures (2024+)
+    *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2024+)
+    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. [pdf](https://arxiv.org/abs/2401.14186) 2024+  
+    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
+    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
+    *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
+    *   Leo L. Duan, Zeyu Yuwen, George Michailidis and Zhengwu Zhang.  Bayesian Vector Autoregression using the Tree Rank Prior. JMLR, 2023
+    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
+    *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
+3.	**Optimization & Bayes**:
+
+    *   Leo L. Duan and Arkaprava Roy. Hierarchical Combintoral Modeling using Polytope Priors. (2024+)
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. [pdf](https://arxiv.org/abs/2309.09371) Revision at JMLR, 2024+
     *   Cheng Zeng*,Eleni Dilma*, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors. [pdf](https://arxiv.org/abs/2403.00968) 2024+
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
@@ -22,15 +35,7 @@ My recent research focuses on the following areas (with some representative work
     *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
     *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 
-2.	**Graph, Clustering & Bayes**:
-   
-    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. [pdf](https://arxiv.org/abs/2401.14186) 2024+  
-    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
-    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
-    *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
-    *   Leo L. Duan, Zeyu Yuwen, George Michailidis and Zhengwu Zhang.  Bayesian Vector Autoregression using the Tree Rank Prior. JMLR, 2023
-    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
-    *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
+
 
 
 # Selected Fundings and Awards
