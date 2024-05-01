@@ -23,7 +23,7 @@ My recent research focuses on the following areas (listing recent works):
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-3.	**Optimization & Bayes**:
+2.	**Optimization & Bayes**:
 
     *   Leo L. Duan and Arkaprava Roy. Hierarchical Combintoral Modeling using Polytope Priors. (2024+)
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. [pdf](https://arxiv.org/abs/2309.09371) Revision at JMLR, 2024+
