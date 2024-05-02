@@ -71,9 +71,7 @@ Yu Zheng
 
 Cheng Zeng
 
-Eleni Dilma
-
-Heejun Shin (Advised by Prof. Antonelli)
+Eleni Dilma (Graduated 2024)
 
 Maoran Xu (Graduated 2022)
 
