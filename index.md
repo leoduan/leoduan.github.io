@@ -25,7 +25,7 @@ My recent research focuses on the following areas (listing recent works):
 
 2.	**Optimization & Bayes**:
 
-    *   Leo L. Duan and Arkaprava Roy. Hierarchical Combintoral Modeling using Polytope Priors. (2024+)
+    *   Leo L. Duan and Arkaprava Roy. Hierarchical Combinatorial Modeling using Polytope Priors. (2024+)
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. 2024+
     *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  2024+
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
