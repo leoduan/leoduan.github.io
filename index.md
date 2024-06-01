@@ -1,9 +1,13 @@
 #### Hello, thanks for checking out my website.
 
-I'm Leo Duan. I'm a statistician and an assistant professor working at University of Florida since 2018.
+I'm Leo Duan. I'm a statistician and an assistant professor at University of Florida since 2018.
 
-<img src="photo.jpg" alt="drawing" width="800"/>
+Our research lab aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
+neuroscience, engineering, and transportation science. The main statistical interest is in modeling the combinatorial objects that are routinely
+used in science and engineering (e.g., tree graphs, clustering, signal pathways, integer flow networks, etc.).
+Our research generates interesting solutions at the intersection between combinatorics, optimization, and Bayesian statistics.
 
+<img src="photo.jpg" alt="drawing" width="500"/>
 
 # Research Interests
 My recent research focuses on the following areas (listing recent works):
