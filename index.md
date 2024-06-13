@@ -13,7 +13,7 @@ Our research generates interesting solutions at the intersection between combina
 My recent research focuses on the following areas (listing recent works):
 
 1.	**Graph, Clustering & Bayes**:
-    *   Yu Zheng and Leo L. Duan. An Elementary Proof to Extended Aldous-Broder Theorem (2024+)
+    *   Yu Zheng and Leo L. Duan. An Elementary Proof of the Extended Aldous-Broder Theorem (2024+)
     *   Leo L. Duan and Arkaprava Roy. High-dimensional Model-based Clustering using Uncountable Mixtures (2024+)
     *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2024+)
     *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2024+)
