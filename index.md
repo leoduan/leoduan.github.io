@@ -39,13 +39,15 @@ My recent research focuses on the following areas (listing recent works):
 
 # Selected Fundings and Awards
 
+2024 UF CLAS Fellowship for Doctoral Student Supervised
+
 2023-2026 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
 
 2022 UF CLAS Faculty Travel Award
 
 2022-2023 UFII SEED Funding Award
 
-2021 UF Statistics Faculty Award for the Supervised Student (Maoran Xu)
+2021 UF Statistics Faculty Award for Doctoral Student Supervised
 
 2018 NeurIPS Bayesian Non-parametrics Award
 
@@ -72,12 +74,11 @@ October 2022, International Conference on Bayesian Nonparametrics in Puerto Vara
 
 # Current PhD Students
 
-Yaozhi Yang
+Cheng Zeng (Expected to graduate in 2024)
 
 Yu Zheng
 
-Cheng Zeng
-
+Yaozhi Yang
 
 # Past Trainees
 
