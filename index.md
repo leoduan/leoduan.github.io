@@ -39,7 +39,7 @@ My recent research focuses on the following areas (listing recent works):
 
 # Selected Fundings and Awards
 
-2023-2026 NSF Funding Award (PI)
+2023-2026 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
 
 2022 UF CLAS Faculty Travel Award
 
