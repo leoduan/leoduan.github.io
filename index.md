@@ -13,7 +13,6 @@ Our research generates interesting solutions at the intersection between combina
 My recent research focuses on the following areas (listing recent works):
 
 1.	**Graph, Clustering & Bayes**:
-    *   Yu Zheng and Leo L. Duan. An Elementary Proof of the Extended Aldous-Broder Theorem (2024+)
     *   Leo L. Duan and Arkaprava Roy. High-dimensional Model-based Clustering using Uncountable Mixtures (2024+)
     *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2024+)
     *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2024+)
@@ -26,7 +25,6 @@ My recent research focuses on the following areas (listing recent works):
 
 2.	**Optimization & Bayes**:
 
-    *   Leo L. Duan and Arkaprava Roy. Hierarchical Combinatorial Modeling using Polytope Priors. (2024+)
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. 2024+
     *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  2024+
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
@@ -58,13 +56,21 @@ My recent research focuses on the following areas (listing recent works):
 
 # Recent and Upcoming Talks:
 
+August 2024, Joint Statistical Meetings, Portland OR
+
+June 2024, International Symposium on Nonparametric Statistics, Braga Portugal
+
+January 2024, Seminar Talk at Duke University, Department of Statistical Science
+
+December 2023, Seminar Talk at University of Washington, Department of Statistics
+
 May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
 
 January 2023, Seminar Talk at Texas A&M University, Department of Statistics
 
 October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
 
-# Current and Former PhD students
+# Current PhD Students
 
 Yaozhi Yang
 
@@ -72,14 +78,18 @@ Yu Zheng
 
 Cheng Zeng
 
-Eleni Dilma (Graduated 2024)
 
-Maoran Xu (Graduated 2022)
+# Past Trainees
+
+Maoran Xu (Assistant Professor, Indiana University)
+
+Eleni Dilma (Biostatistician, Food and Drug Administration)
+
+Edric Tam (Postdoctoral Fellow, Stanford University)
 
 # Contact Info
 PhD student interested in working with us? Send me an email!
 _li dot duan at ufl dot edu_
-
 
 
 # Publications
