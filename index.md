@@ -2,14 +2,26 @@
 
 I'm Leo Duan. I'm a statistician and an assistant professor at University of Florida since 2018.
 
-Our research lab aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
+My research aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
 neuroscience, engineering, and transportation science. The main statistical interest is in modeling the combinatorial objects that are routinely
 used in science and engineering (e.g., tree graphs, clustering, signal pathways, integer flow networks, etc.).
 Our research generates interesting solutions at the intersection between combinatorics, optimization, and Bayesian statistics.
 
-<img src="photo.jpg" alt="drawing" width="500"/>
+## Some annoucements!
+
+1. I am running for the Treasurer position in ISBA Bayesian Computation (BayesComp) Section. Please vote if you're an ISBA member!
+
+2. Jason Xu and I are preparing to teach a short course "Harnessing Optimization in Bayesian Inference", likely in 2025 at one of the national conferences. Stay tuned for further update.
+
+3. Department of Statistics at UF is hosting the next Winter Workshop themed on "Computational Methods in Bayesian Statistics". The registration is now open, and we have some travel support for young researchers.
+  
+   See attached link: https://stat.ufl.edu/winter-workshop/2025-computational-methods-in-bayesian-statistics/
+
 
 # Research Interests
+
+<img src="photo.jpg" alt="drawing" width="500"/>
+
 My recent research focuses on the following areas (listing recent works):
 
 1.	**Graph, Clustering & Bayes**:
@@ -23,7 +35,7 @@ My recent research focuses on the following areas (listing recent works):
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-3.	**Optimization & Bayes**:
+2.	**Optimization & Bayes**:
 
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. 2024+
     *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  2024+
