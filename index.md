@@ -13,7 +13,7 @@ Our research generates interesting solutions at the intersection between combina
 My recent research focuses on the following areas (listing recent works):
 
 1.	**Graph, Clustering & Bayes**:
-    *   Leo L. Duan and Arkaprava Roy. High-dimensional Model-based Clustering using Uncountable Mixtures (2024+)
+    *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest (2024+)
     *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2024+)
     *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2024+)
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
@@ -23,7 +23,7 @@ My recent research focuses on the following areas (listing recent works):
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-2.	**Optimization & Bayes**:
+3.	**Optimization & Bayes**:
 
     *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. 2024+
     *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  2024+
