@@ -13,7 +13,7 @@ Our research generates interesting solutions at the intersection between combina
 
 2. Jason Xu and I are preparing to teach a short course "Harnessing Optimization in Bayesian Inference", likely in 2025 at one of the national conferences. Stay tuned for further update.
 
-3. Department of Statistics at UF is hosting the next Winter Workshop themed on "Computational Methods in Bayesian Statistics". The registration is now open, and we have some travel support for young researchers.
+3. Department of Statistics at UF is hosting the next Winter Workshop, themed on "Computational Methods in Bayesian Statistics", between January 17-18, 2025. The registration is now open, and we have some travel support for young researchers.
   
    See attached link: https://stat.ufl.edu/winter-workshop/2025-computational-methods-in-bayesian-statistics/
 
