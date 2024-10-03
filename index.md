@@ -113,7 +113,7 @@ _li dot duan at ufl dot edu_
 
 For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fleoduan.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoduan.leoduan.github.io&left_color=green&right_color=red)
 
 
 
