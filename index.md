@@ -7,6 +7,10 @@ neuroscience, engineering, and transportation science. The main statistical inte
 used in science and engineering (e.g., tree graphs, clustering, signal pathways, integer flow networks, etc.).
 Our research generates interesting solutions at the intersection between combinatorics, optimization, and Bayesian statistics.
 
+**My CV can be found** [here](leo_duan_cv.pdf)  (updated 2024 Oct)
+
+
+
 ## Some annoucements!
 
 1. I am running for the Treasurer position in ISBA Bayesian Computation (BayesComp) Section. Please vote if you're an ISBA member!
