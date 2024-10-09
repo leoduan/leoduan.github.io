@@ -113,7 +113,9 @@ _li dot duan at ufl dot edu_
 
 For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leoduan.leoduan.github.io&left_color=green&right_color=red)
-
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/leoduan"/>  
+</div>
 
 
