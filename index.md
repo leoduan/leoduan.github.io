@@ -90,7 +90,9 @@ October 2022, International Conference on Bayesian Nonparametrics in Puerto Vara
 
 # Current PhD Students
 
-Cheng Zeng (Expected to graduate in 2024)
+Cheng Zeng (Expected to graduate in Spring 2025)
+
+Zeyu Yuwen (Expected to graduate in Spring 2025)
 
 Yu Zheng
 
