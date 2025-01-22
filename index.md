@@ -27,9 +27,9 @@ Our research generates interesting solutions at the intersection between combina
 My recent research focuses on the following areas (listing recent works):
 
 1.	**Graph, Clustering & Bayes**:
-    *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest (2024+)
-    *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2024+)
-    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2024+)
+    *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2025, R&R at Biometrika)
+    *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest (2025+)
+    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2025, Under Review at JMLR)
     *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
     *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
     *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
@@ -37,10 +37,10 @@ My recent research focuses on the following areas (listing recent works):
     *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
     *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
 
-2.	**Optimization & Bayes**:
+3.	**Optimization & Bayes**:
 
-    *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. 2024+
-    *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  2024+
+    *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. (2025, R&R at JCGS)
+    *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  (2025, Under Review at JASA)
     *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
     *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
     *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
