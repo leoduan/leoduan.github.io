@@ -26,24 +26,24 @@ Our research generates interesting solutions at the intersection between combina
 
 My recent research work:
 
-    *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data (2025+)
-    *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2025, R&R at Biometrika)
-    *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2025, Under Review at JMLR)
-    *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. (2025, R&R at JCGS)
-    *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  (2025, Under Review at JASA)
-    *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest (2025+)
-    *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
-    *   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
-    *   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
-    *   Leo L. Duan, Zeyu Yuwen, George Michailidis and Zhengwu Zhang.  Bayesian Vector Autoregression using the Tree Rank Prior. JMLR, 2023
-    *   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
-    *   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
-    *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
-    *   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
-    *   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
-    *   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
-    *   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
-    *   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
+*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data (2025+)
+*   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks (2025, R&R at Biometrika)
+*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (2025, Under Review at JMLR)
+*   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. (2025, R&R at JCGS)
+*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. * Joint first authors.  (2025, Under Review at JASA)
+*   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest (2025+)
+*   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
+*   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
+*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
+*   Leo L. Duan, Zeyu Yuwen, George Michailidis and Zhengwu Zhang.  Bayesian Vector Autoregression using the Tree Rank Prior. JMLR, 2023
+*   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
+*   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
+*   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
+*   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
+*   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
+*   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
+*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
+*   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
 
 
 
