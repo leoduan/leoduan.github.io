@@ -111,9 +111,19 @@ _li dot duan at ufl dot edu_
 
 For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/leoduan"/>  
+
+<div>
+  <p>This page has been visited <span id="counter">0</span> times.</p>
 </div>
+
+{% raw %}
+<script>
+  fetch('https://api.countapi.xyz/hit/leoduan.github.io/1234')
+    .then(res => res.json())
+    .then(res => {
+      document.getElementById('counter').innerText = res.value;
+    });
+</script>
+{% endraw %}
 
 
