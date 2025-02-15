@@ -13,11 +13,8 @@ Our research generates interesting solutions at the intersection between combina
 
 ## Some annoucements!
 
-1. Prof. Jason Xu and I are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Stay tuned for further detail.
-
-2. Department of Statistics at UF is hosting the next Winter Workshop, themed on "Computational Methods in Bayesian Statistics", between January 17-18, 2025. The registration is now open.
+Prof. Jason Xu and I are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Stay tuned for further detail.
   
-   See attached link: https://stat.ufl.edu/winter-workshop/2025-computational-methods-in-bayesian-statistics/
 
 
 # Research Interests
