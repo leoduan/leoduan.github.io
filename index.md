@@ -23,7 +23,7 @@ Prof. Jason Xu and I are teaching a short course "Harnessing Optimization in Bay
 
 Selected forthcoming work (please email me for latest manuscript):
 
-*   Cheng Zeng^, Yaozhi Yang^, Jason Xu and Leo L. Duan. Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Function. ^joint 1st authors.
+*   Cheng Zeng^, Yaozhi Yang^, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. ^joint 1st authors.
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Model-based Inference for Persistent Homology.
 
