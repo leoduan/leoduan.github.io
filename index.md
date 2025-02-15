@@ -24,13 +24,17 @@ Our research generates interesting solutions at the intersection between combina
 
 <img src="photo.jpg" alt="drawing" width="500"/>
 
-Selected recent work:
+Selected forthcoming work (please email me for latest manuscript):
 
+*   Cheng Zeng^, Yaozhi Yang^, Jason Xu and Leo L. Duan. Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Function. ^joint 1st authors.
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.
+*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Model-based Inference for Persistent Homology.
+
+Selected recent work (pre-print and accepted):
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. (R&R at Biometrika)
 *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (Under Review at JMLR)
-*   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. (R&R at JCGS)
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Under Review at JASA)
+*   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. JCGS 2025.
 *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest 2024
 *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
 *   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSSB, 2023.
