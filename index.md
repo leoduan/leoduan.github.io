@@ -23,10 +23,10 @@ Prof. Jason Xu and I are teaching a short course "Harnessing Optimization in Bay
 
 Selected forthcoming work (please email me for latest manuscript):
 
-*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Model-based Inference for Persistent Homology.
 
 Selected recent work (pre-print and accepted):
+*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.
 *   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function  (Under Review at JRSS-B).
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
 *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (Under Review at JMLR)
