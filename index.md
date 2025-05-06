@@ -7,7 +7,7 @@ neuroscience, engineering, and transportation science. The main statistical inte
 used in science and engineering (e.g., tree graphs, clustering, signal pathways, integer flow networks, etc.).
 Our research generates interesting solutions at the intersection between combinatorics, optimization, and Bayesian statistics.
 
-**My CV can be found** [here](leo_duan_cv.pdf)  (updated 2024 Oct)
+**My CV can be found** [here](leo_duan_cv.pdf)  (updated 2025 May)
 
 
 
@@ -29,7 +29,7 @@ Selected recent work (pre-print and accepted):
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Under Review at JASA).
 *   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function  (Under Review at JRSS-B).
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
-*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (Under Review at JMLR)
+*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (Accepted by JMLR pending minor revisions).
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Under Review at JASA)
 *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. JCGS 2025.
 *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest 2024
