@@ -12,15 +12,15 @@ Our research generates interesting solutions at the intersection between combina
 
 ## Some annoucements!
 
-1. Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information, register if interested!
+1. Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information --- _please register if interested!_
 
 **Harnessing Optimization in Bayesian Inference**
 
-Sunday, Aug 3: 8:30 AM - 12:30 PM
+_Sunday, Aug 3: 8:30 AM - 12:30 PM_
 
-Bayesian methods offer intuitive frameworks for specifying generative models, quantifying uncertainty, and developing model-based extensions in applications such as multi-population studies. However, traditional Bayesian approaches often face challenges when dealing with high-dimensional data, combinatorial structures, or strict parameter constraints, which can lead to increased costs in modeling, implementation, computation and inference.
+_Bayesian methods offer intuitive frameworks for specifying generative models, quantifying uncertainty, and developing model-based extensions in applications such as multi-population studies. However, traditional Bayesian approaches often face challenges when dealing with high-dimensional data, combinatorial structures, or strict parameter constraints, which can lead to increased costs in modeling, implementation, computation and inference._
 
-This short course introduces and discusses innovative Bayesian methodologies that directly leverage strengths from the optimization literature, significantly broadening the generality and applicability of Bayesian paradigms. These approaches enable researchers to incorporate optimization-based functions or algorithms into various aspects of Bayesian analysis. Examples include accelerated posterior computation via projection-based MCMC, optimization-based reparameterizations that circumvent combinatorial costs, optimization-induced likelihood functions for structured or constrained data, and hybrid models that combine Bayesian and optimization approaches. We will explore different aspects of this framework, including model building, algorithm development, calibration, justification, and statistical inference. The application of these methods will be illustrated through modeling of networks, multivariate time series, and longitudinal or functional data in biomedical and geospatial settings.
+_This short course introduces and discusses innovative Bayesian methodologies that directly leverage strengths from the optimization literature, significantly broadening the generality and applicability of Bayesian paradigms. These approaches enable researchers to incorporate optimization-based functions or algorithms into various aspects of Bayesian analysis. Examples include accelerated posterior computation via projection-based MCMC, optimization-based reparameterizations that circumvent combinatorial costs, optimization-induced likelihood functions for structured or constrained data, and hybrid models that combine Bayesian and optimization approaches. We will explore different aspects of this framework, including model building, algorithm development, calibration, justification, and statistical inference. The application of these methods will be illustrated through modeling of networks, multivariate time series, and longitudinal or functional data in biomedical and geospatial settings._
   
 2. I have been promoted to Associate Professor with tenure at University of Florida.
 
