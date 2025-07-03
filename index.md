@@ -105,13 +105,3 @@ Maoran Xu (Assistant Professor, Indiana University)
 
 
 
-# Contact Info
-PhD student interested in working with us? Send me an email!
-
-
-# Publications
-
-For the up-to-date list of publications and pre-prints, see https://scholar.google.com/citations?user=4i5UQLAAAAAJ&hl=en
-
-
-
