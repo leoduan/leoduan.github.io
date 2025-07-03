@@ -12,7 +12,9 @@ Our research generates interesting solutions at the intersection between combina
 
 ## Some annoucements!
 
-1. Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information --- _please register if interested!_
+* Lab openning: I'm looking to advise new doctoral students working on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
+   
+* Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information --- _please register if interested!_
 
 **Harnessing Optimization in Bayesian Inference**
 
@@ -22,7 +24,7 @@ _Bayesian methods offer intuitive frameworks for specifying generative models, q
 
 _This short course introduces and discusses innovative Bayesian methodologies that directly leverage strengths from the optimization literature, significantly broadening the generality and applicability of Bayesian paradigms. These approaches enable researchers to incorporate optimization-based functions or algorithms into various aspects of Bayesian analysis. Examples include accelerated posterior computation via projection-based MCMC, optimization-based reparameterizations that circumvent combinatorial costs, optimization-induced likelihood functions for structured or constrained data, and hybrid models that combine Bayesian and optimization approaches. We will explore different aspects of this framework, including model building, algorithm development, calibration, justification, and statistical inference. The application of these methods will be illustrated through modeling of networks, multivariate time series, and longitudinal or functional data in biomedical and geospatial settings._
   
-2. I have been promoted to Associate Professor with tenure at University of Florida.
+* I have been promoted to Associate Professor with tenure at University of Florida.
 
 # Research Interests
 
@@ -93,25 +95,26 @@ October 2022, International Conference on Bayesian Nonparametrics in Puerto Vara
 
 # Current PhD Students
 
-Cheng Zeng (Expected to graduate in Spring 2025)
-
 Zeyu Yuwen (Expected to graduate in Spring 2025)
 
-Yu Zheng
+Yu Zheng  (Expected to graduate in Fall 2025)
 
 Yaozhi Yang
 
 # Past Trainees
 
-Maoran Xu (Assistant Professor, Indiana University)
-
-Eleni Dilma (Biostatistician, Food and Drug Administration)
+Cheng Zeng
 
 Edric Tam (Postdoctoral Fellow, Stanford University)
 
+Eleni Dilma (Biostatistician, Food and Drug Administration)
+
+Maoran Xu (Assistant Professor, Indiana University)
+
+
+
 # Contact Info
 PhD student interested in working with us? Send me an email!
-_li dot duan at ufl dot edu_
 
 
 # Publications
