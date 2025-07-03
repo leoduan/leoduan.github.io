@@ -12,7 +12,7 @@ Our research generates interesting solutions at the intersection between combina
 
 ## Some annoucements!
 
-* Lab openning: I'm looking to advise new doctoral students working on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
+* Lab openning: I'm looking to advise new doctoral students to work on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
    
 * Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information --- _please register if interested!_
 
