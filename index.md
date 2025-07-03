@@ -1,6 +1,6 @@
 #### Hello, thanks for checking out my website.
 
-I'm Leo Duan. I'm a statistician and an assistant professor at University of Florida since 2018.
+I'm Leo Duan. I'm a statistician at University of Florida since 2018.
 
 My research aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
 neuroscience, engineering, and transportation science. The main statistical interest is in modeling the combinatorial objects that are routinely
@@ -10,12 +10,19 @@ Our research generates interesting solutions at the intersection between combina
 **My CV can be found** [here](leo_duan_cv.pdf)  (updated 2025 May)
 
 
-
 ## Some annoucements!
 
-Prof. Jason Xu and I are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Stay tuned for further detail.
-  
+1. Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information, register if interested!
 
+**Harnessing Optimization in Bayesian Inference**
+
+Sunday, Aug 3: 8:30 AM - 12:30 PM
+
+Bayesian methods offer intuitive frameworks for specifying generative models, quantifying uncertainty, and developing model-based extensions in applications such as multi-population studies. However, traditional Bayesian approaches often face challenges when dealing with high-dimensional data, combinatorial structures, or strict parameter constraints, which can lead to increased costs in modeling, implementation, computation and inference.
+
+This short course introduces and discusses innovative Bayesian methodologies that directly leverage strengths from the optimization literature, significantly broadening the generality and applicability of Bayesian paradigms. These approaches enable researchers to incorporate optimization-based functions or algorithms into various aspects of Bayesian analysis. Examples include accelerated posterior computation via projection-based MCMC, optimization-based reparameterizations that circumvent combinatorial costs, optimization-induced likelihood functions for structured or constrained data, and hybrid models that combine Bayesian and optimization approaches. We will explore different aspects of this framework, including model building, algorithm development, calibration, justification, and statistical inference. The application of these methods will be illustrated through modeling of networks, multivariate time series, and longitudinal or functional data in biomedical and geospatial settings.
+  
+2. I have been promoted to Associate Professor with tenure at University of Florida.
 
 # Research Interests
 
