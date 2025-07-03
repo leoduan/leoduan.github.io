@@ -79,27 +79,19 @@ Selected recent work (pre-print and accepted):
 
 # Recent and Upcoming Talks:
 
-August 2024, Joint Statistical Meetings, Portland OR
+August 2025, EcoSta, Tokyo Japan
 
-June 2024, International Symposium on Nonparametric Statistics, Braga Portugal
+August 2025, Joint Statistical Meetings, Nashville TN
 
-January 2024, Seminar Talk at Duke University, Department of Statistical Science
+June 2025, BayesComp, Singapore
 
-December 2023, Seminar Talk at University of Washington, Department of Statistics
-
-May 2023, Seminar Talk at Harvard University, Department of Biostatistics 
-
-January 2023, Seminar Talk at Texas A&M University, Department of Statistics
-
-October 2022, International Conference on Bayesian Nonparametrics in Puerto Varas, Chile
+May 2025, Statistical Methods in Imaging Conference, Houston, TX
 
 # Current PhD Students
 
 Zeyu Yuwen (Expected to graduate in Spring 2025)
 
 Yu Zheng  (Expected to graduate in Fall 2025)
-
-Yaozhi Yang
 
 # Past Trainees
 
