@@ -1,13 +1,17 @@
 #### Hello, thanks for checking out my website.
 
-I'm Leo Duan. I'm a statistician and an Associate Professor at University of Florida.
+I'm Leo Duan. I'm a statistician and an Associate Professor at the University of Florida.
 
-My research aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
-neuroscience, engineering, and transportation science. The main statistical interest is in modeling the combinatorial objects that are routinely
-used in science and engineering (e.g., tree graphs, clustering, signal pathways, integer flow networks, etc.).
-Our research generates interesting solutions at the intersection between combinatorics, optimization, and Bayesian statistics.
+My research focuses on the interface between optimization and Bayesian models.
 
-**My CV can be found** [here](leo_duan_cv.pdf)  (updated 2025 May)
+The goal of our research group is to develop new statistical and machine learning toolboxes that _just work_ -- which means simple implementation, fast computation, and principled uncertainty quantification.
+
+Achieving this goal is not trivial, which is why we've been working to show how one can borrow strengths from two communities: Bayes, who are good at probabilistic modeling, and optimization, who are good at efficient computing. Check out our work below on building optimization-based priors, optimization-based  likelihoods, and optimization-based generative models, and feel free to reach out with any questions.
+
+My statisical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, and transportation science.
+
+
+** My CV can be found** [here](leo_duan_cv.pdf)  (updated 2025 May)
 
 
 ## Some annoucements!
