@@ -2,7 +2,7 @@
 
 I'm Leo Duan. I'm a statistician and an Associate Professor at the University of Florida.
 
-My research focuses on the interface between optimization and Bayesian models.
+My research focuses on the interface between optimization and Bayes.
 
 The goal of our research group is to develop new statistical and machine learning toolboxes that _just work_ -- which means simple implementation, fast computation, and principled uncertainty quantification.
 
