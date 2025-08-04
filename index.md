@@ -1,6 +1,6 @@
 #### Hello, thanks for checking out my website.
 
-I'm Leo Duan. I'm a statistician at University of Florida since 2018.
+I'm Leo Duan. I'm a statistician and an Associate Professor at University of Florida.
 
 My research aims to build new statistical methods, theory and computational toolboxes for addressing motivating application problems in 
 neuroscience, engineering, and transportation science. The main statistical interest is in modeling the combinatorial objects that are routinely
@@ -13,8 +13,6 @@ Our research generates interesting solutions at the intersection between combina
 ## Some annoucements!
 
 * Lab openning: I'm looking to advise new doctoral students to work on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
-
-* I have been promoted to Associate Professor with tenure.
    
 * Prof. Jason Xu @ UCLA Biostats and I @ UF Stats are teaching a short course "Harnessing Optimization in Bayesian Inference" at JSM 2025 in Nashville Tennessee. Here's the course information --- _please register if interested!_
 
