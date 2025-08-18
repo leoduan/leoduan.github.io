@@ -81,19 +81,19 @@ May 2025, Statistical Methods in Imaging Conference, Houston, TX
 
 # Current PhD Students
 
-Zeyu Yuwen (Expected to graduate in Spring 2025)
-
 Yu Zheng  (Expected to graduate in Fall 2025)
 
 # Past Trainees
 
 Cheng Zeng
 
-Edric Tam (Postdoctoral Fellow, Stanford University)
+Zeyu Yuwen (Co-advised with George Michailidis)
 
-Eleni Dilma (Biostatistician, Food and Drug Administration)
+Edric Tam (Currently postdoctoral fellow at Stanford University)
 
-Maoran Xu (Assistant Professor, Indiana University)
+Eleni Dilma (Co-advised with Brenda Betancourt, first job placement: Food and Drug Administration)
+
+Maoran Xu (Assistant Professor, first job placement: Indiana University)
 
 
 
