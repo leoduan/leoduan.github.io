@@ -28,7 +28,7 @@ Selected forthcoming work (please email me for latest manuscript):
 *   Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models.
 
 Selected recent work (pre-print and accepted):
-*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Under Review at JASA).
+*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA).
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA)
 *   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. (Under Review at JMLR).
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
