@@ -18,7 +18,7 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 * I'm running for the ISBA Treasurer position in the coming 2025 ISBA election. Please consider voting for me. "A vote for Leo is a vote for...Leo." (sry, I'm not a politician).
 
-* Our department of UF Stats is looking to hire 3 tenure-track Assistant Professor positions. See posting below and email me if there's any question.
+* Our department of UF Stats is looking to fill 3 tenure-track Assistant Professor positions. See posting below and email me if there's any question.
 
 https://forms.stat.ufl.edu/statistics-jobs/entry/12573/
 
