@@ -16,6 +16,8 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 ## Some annoucements!
 
+* I'm running for the ISBA Treasurer position in the coming 2025 ISBA election. Please consider voting for me. "A vote for Leo is a vote for...Leo." (sry, I'm not a politician).
+
 * Lab openning: I'm looking to advise new doctoral students to work on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
    
 # Research Interests
