@@ -98,6 +98,8 @@ Yu Zheng
 
 Cheng Zeng
 
+Yaozhi Yang
+
 Zeyu Yuwen (Co-advised with George Michailidis)
 
 Edric Tam
