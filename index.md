@@ -86,7 +86,7 @@ June 2025, BayesComp, Singapore
 
 May 2025, Statistical Methods in Imaging Conference, Houston, TX
 
-# Current PhD Students
+# Current and collaborating PhD Students
 
 Sunghyun Cho
 
