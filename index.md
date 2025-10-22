@@ -88,7 +88,11 @@ May 2025, Statistical Methods in Imaging Conference, Houston, TX
 
 # Current PhD Students
 
-Yu Zheng  (Expected to graduate in Fall 2025)
+Sunghyun Cho
+
+Zitian Wu (advised by Arkaprava Roy)
+
+Yu Zheng
 
 # Past Trainees
 
@@ -96,11 +100,11 @@ Cheng Zeng
 
 Zeyu Yuwen (Co-advised with George Michailidis)
 
-Edric Tam (Currently postdoctoral fellow at Stanford University)
+Edric Tam
 
-Eleni Dilma (Co-advised with Brenda Betancourt, first job placement: Food and Drug Administration)
+Eleni Dilma (Co-advised with Brenda Betancourt)
 
-Maoran Xu (Assistant Professor, first job placement: Indiana University)
+Maoran Xu
 
 
 
