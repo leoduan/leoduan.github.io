@@ -30,8 +30,10 @@ https://forms.stat.ufl.edu/statistics-jobs/entry/12573/
 
 Selected forthcoming work (please email me for latest manuscript):
 
+*   Leo L. Duan. Dual Continuous Shrinkage Priors.
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Model-based Inference for Persistent Homology.
 *   Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models.
+
 
 Selected recent work (pre-print and accepted):
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA).
