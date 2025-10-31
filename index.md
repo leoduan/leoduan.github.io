@@ -13,6 +13,8 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 ** My CV can be found** [here](leo_duan_cv.pdf)  (updated 2025 May)
 
+<img src="photo.jpg" alt="drawing" width="500"/>
+
 
 ## Some annoucements!
 
@@ -26,7 +28,6 @@ https://forms.stat.ufl.edu/statistics-jobs/entry/12573/
    
 # Research Interests
 
-<img src="photo.jpg" alt="drawing" width="500"/>
 
 Selected forthcoming work (please email me for latest manuscript):
 
