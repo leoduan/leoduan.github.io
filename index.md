@@ -20,7 +20,6 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 * Lab openning: I'm looking to advise new doctoral students to work on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
 
-~~ I'm running for the ISBA Treasurer position in the coming 2025 ISBA election. Please consider voting for me.~~
 * I have been elected to serve as Treasurer of ISBA, beginning in 2026.
 Thank you all for your trust and support. I look forward to continuing to serve ISBA and and the broader statistical community.
 
