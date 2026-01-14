@@ -23,10 +23,6 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 * I have been elected to serve as Treasurer of ISBA, beginning in 2026.
 Thank you all for your trust and support. I look forward to continuing to serve ISBA and and the broader statistical community.
 
-* Our department of UF Stats is looking to fill 3 tenure-track Assistant Professor positions. See posting below and email me if there's any question.
-
-https://forms.stat.ufl.edu/statistics-jobs/entry/12573/
-
    
 # Research Interests
 
