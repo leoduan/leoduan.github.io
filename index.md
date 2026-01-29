@@ -84,7 +84,9 @@ June 2025, BayesComp, Singapore
 
 May 2025, Statistical Methods in Imaging Conference, Houston, TX
 
-# Current PhD Students
+# Current Doctoral Students
+
+Luis Hasenauer
 
 Sunghyun Cho
 
@@ -92,7 +94,7 @@ Zitian Wu (advised by Arkaprava Roy)
 
 Yu Zheng
 
-# Past Trainees
+# Past Doctoral Students
 
 Cheng Zeng
 
