@@ -74,15 +74,11 @@ Selected recent work (pre-print and accepted):
 2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
 
 
-# Recent and Upcoming Talks:
+# Upcoming Talks:
 
-August 2025, EcoSta, Tokyo Japan
+June 2026, ISBA World Meetings
 
-August 2025, Joint Statistical Meetings, Nashville TN
-
-June 2025, BayesComp, Singapore
-
-May 2025, Statistical Methods in Imaging Conference, Houston, TX
+April 2026, UT Austin Seminar
 
 # Current Doctoral Students
 
