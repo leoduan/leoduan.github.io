@@ -74,7 +74,7 @@ Selected recent work (pre-print and accepted):
 2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
 
 
-# Upcoming Talks:
+# Upcoming Talks
 
 June 2026, ISBA World Meetings
 
