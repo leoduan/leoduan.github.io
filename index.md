@@ -57,9 +57,9 @@ Selected recent work (pre-print and accepted):
 
 # Selected Fundings and Awards
 
-2024 UF CLAS Fellowship for Doctoral Student Supervised
+2023-2027 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
 
-2023-2026 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
+2024 UF CLAS Fellowship for Doctoral Student Supervised
 
 2022 UF CLAS Faculty Travel Award
 
