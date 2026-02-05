@@ -82,27 +82,27 @@ April 2026, UT Austin Seminar
 
 # Current Doctoral Students
 
-Luis Hasenauer
+Luis Hasenauer (UF)
 
-Sunghyun Cho
+Sunghyun Cho (UF)
 
-Zitian Wu (advised by Arkaprava Roy)
+Zitian Wu (UF Biostats)
 
-Yu Zheng
+Yu Zheng (UF)
 
-# Past Doctoral Students
+# Mentored Doctoral Students
 
-Cheng Zeng
+Cheng Zeng (UF)
 
-Yaozhi Yang
+Yaozhi Yang (UF)
 
-Zeyu Yuwen (Co-advised with George Michailidis)
+Zeyu Yuwen (UF)
 
-Edric Tam
+Edric Tam (Duke)
 
-Eleni Dilma (Co-advised with Brenda Betancourt)
+Eleni Dilma (UF)
 
-Maoran Xu
+Maoran Xu (UF)
 
 
 
