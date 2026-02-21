@@ -80,7 +80,7 @@ June 2026, ISBA World Meetings
 
 April 2026, UT Austin Seminar
 
-# Current Doctoral Students
+# Currently Advised/Collaborating Students
 
 Luis Hasenauer (UF)
 
