@@ -24,13 +24,8 @@ Thank you all for your trust and support. I look forward to continuing to serve 
    
 # Research Interests
 
-
-Selected forthcoming work (please email me for latest manuscript):
-
-*   Leo L. Duan. Dual Continuous Shrinkage Priors.
-*   Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models.
-
 Selected recent work (pre-print and accepted):
+* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://shorturl.at/HSMCL
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Under Review at Biometrika) https://arxiv.org/abs/2511.11996
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA). https://arxiv.org/abs/2504.11630
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA) https://arxiv.org/abs/2403.00968
