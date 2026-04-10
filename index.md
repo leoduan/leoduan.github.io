@@ -18,9 +18,7 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 ## Some annoucements!
 
-* I have been elected to serve as Treasurer of ISBA, beginning in 2026.
-Thank you all for your trust and support. I look forward to continuing to serve ISBA and and the broader statistical community.
-
+* I will be visiting Université Paris Dauphine in the fall of 2026, thanks to my host Christian Robert. I look forward to developing new collaboration in the European science community -- send me an email & let's schedule to meet!
    
 # Research Interests
 
