@@ -23,11 +23,9 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 # Research Interests
 
 Selected recent work (pre-print and accepted):
-* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. [preprint link](https://www.researchgate.net/publication/404080930_Revisiting_Bayesian_Variable_Selection_via_Optimization)
 
-
-* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. [preprint link](https://www.researchgate.net/profile/Leo-Duan-2/publication/403524953_Bayesian_Distance-to-Set_Models_from_Latent_Variable_to_Latent_Projection/links/69d2db5b9f53d47411c48abb/Bayesian-Distance-to-Set-Models-from-Latent-Variable-to-Latent-Projection.pdf?origin=publicationDetail&_sg%5B0%5D=0Nu2oVJfoqXeWb29YmgGC4tdierUbwjPbF8552q5AG5btC1Ok6zxZJK941aNb3QyoVWGK5DxM51QtQw3H3_vRg.hPlRSPmezN5zg5v457W3fVFAO2BMBcLuYeyfLDklZtSDoBZbVifu1FNbmuJs_oHzXv8BF_Y9GsxFW7uXeMlpVQ&_sg%5B1%5D=iO-YRDnMbw9oWGmksVxuy50GPvawpiaK2LWC4bjKXYgnDnJ1vUxodrF4yRwvLZJsBCF6J85rPrVQi8CuG5sSRySgBH787rj1CWVxFZWxx1T3.hPlRSPmezN5zg5v457W3fVFAO2BMBcLuYeyfLDklZtSDoBZbVifu1FNbmuJs_oHzXv8BF_Y9GsxFW7uXeMlpVQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)
-
+* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
+* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Under Review at Biometrika) https://arxiv.org/abs/2511.11996
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA). https://arxiv.org/abs/2504.11630
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA) https://arxiv.org/abs/2403.00968
