@@ -24,6 +24,7 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 Selected recent work (pre-print and accepted):
 
+* Leo L. Duan, Sunghyun Cho and Mingzhang Yin. Relaxation of Projected Prior with Continuous Gap Shrinkage. https://arxiv.org/abs/2605.14936
 * Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
 * Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
 *   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Under Review at Biometrika) https://arxiv.org/abs/2511.11996
