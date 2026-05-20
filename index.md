@@ -18,30 +18,21 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 ## Some annoucements!
 
-* I'm running for the ISBA Treasurer position in the coming 2025 ISBA election. Please consider voting for me. "A vote for Leo is a vote for...Leo." (sry, I'm not a politician).
-
-* Our department of UF Stats is looking to fill 3 tenure-track Assistant Professor positions. See posting below and email me if there's any question.
-
-https://forms.stat.ufl.edu/statistics-jobs/entry/12573/
-
-* Lab openning: I'm looking to advise new doctoral students to work on optimization and diffusion models. If you are currently enrolled in UF graduate program & are interested in doing research with me, send an email to _li dot duan at ufl dot edu_.
+* I will be visiting Université Paris Dauphine in the fall of 2026, thanks to my host Christian Robert. I look forward to developing new collaboration in the European science community -- send me an email & let's meet!
    
 # Research Interests
 
-
-Selected forthcoming work (please email me for latest manuscript):
-
-*   Leo L. Duan. Dual Continuous Shrinkage Priors.
-*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Model-based Inference for Persistent Homology.
-*   Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models.
-
-
 Selected recent work (pre-print and accepted):
-*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA).
-*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA)
-*   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. (Under Review at JMLR).
+
+* Leo L. Duan, Sunghyun Cho and Mingzhang Yin. Relaxation of Projected Prior with Continuous Gap Shrinkage. https://arxiv.org/abs/2605.14936
+* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
+* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
+*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Under Review at Biometrika) https://arxiv.org/abs/2511.11996
+*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA). https://arxiv.org/abs/2504.11630
+*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA) https://arxiv.org/abs/2403.00968
+*   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. (Under Review at JMLR). https://arxiv.org/abs/2503.11637
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
-*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. (Accepted by JMLR pending minor revision).
+*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. JMLR 2025.
 *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. JCGS 2025.
 *   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest 2025. (Revision at Bernoulli) 
 *   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
@@ -62,9 +53,9 @@ Selected recent work (pre-print and accepted):
 
 # Selected Fundings and Awards
 
-2024 UF CLAS Fellowship for Doctoral Student Supervised
+2023-2027 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
 
-2023-2026 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
+2024 UF CLAS Fellowship for Doctoral Student Supervised
 
 2022 UF CLAS Faculty Travel Award
 
@@ -79,37 +70,35 @@ Selected recent work (pre-print and accepted):
 2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
 
 
-# Recent and Upcoming Talks:
+# Upcoming Talks
 
-August 2025, EcoSta, Tokyo Japan
+June 2026, ISBA World Meetings
 
-August 2025, Joint Statistical Meetings, Nashville TN
+April 2026, UT Austin Seminar
 
-June 2025, BayesComp, Singapore
+# Currently Advised/Collaborating Students
 
-May 2025, Statistical Methods in Imaging Conference, Houston, TX
+Luis Hasenauer (UF)
 
-# Current PhD Students
+Sunghyun Cho (UF)
 
-Sunghyun Cho
+Zitian Wu (UF Biostats)
 
-Zitian Wu (advised by Arkaprava Roy)
+Yu Zheng (UF)
 
-Yu Zheng
+# Mentored Doctoral Students
 
-# Past Trainees
+Cheng Zeng (UF)
 
-Cheng Zeng
+Yaozhi Yang (UF)
 
-Yaozhi Yang
+Zeyu Yuwen (UF)
 
-Zeyu Yuwen (Co-advised with George Michailidis)
+Edric Tam (Duke)
 
-Edric Tam
+Eleni Dilma (UF)
 
-Eleni Dilma (Co-advised with Brenda Betancourt)
-
-Maoran Xu
+Maoran Xu (UF)
 
 
 
