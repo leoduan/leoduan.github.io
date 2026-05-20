@@ -11,7 +11,7 @@ Achieving this goal is not trivial, which is why we've been working to show how 
 My statisical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, and transportation science.
 
 
-** My CV can be found** [here](leo_duan_cv.pdf)  (updated 2026 Jan)
+** My CV can be found** [here](leo_duan_cv.pdf)  (updated 2026 April)
 
 <img src="photo.jpg" alt="drawing" width="500"/>
 
