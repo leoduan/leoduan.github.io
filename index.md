@@ -25,9 +25,9 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 Selected recent work (pre-print and accepted):
 
 * Leo L. Duan, Sunghyun Cho and Mingzhang Yin. Relaxation of Projected Prior with Continuous Gap Shrinkage. https://arxiv.org/abs/2605.14936
-* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
-* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
-*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Under Review at Biometrika) https://arxiv.org/abs/2511.11996
+* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. (Under review at JMLR) http://arxiv.org/abs/2604.21009
+* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. (Under review at JRSS-B) https://arxiv.org/abs/2604.10178
+*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Revision at Biometrika) https://arxiv.org/abs/2511.11996
 *   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA). https://arxiv.org/abs/2504.11630
 *   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA) https://arxiv.org/abs/2403.00968
 *   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. (Under Review at JMLR). https://arxiv.org/abs/2503.11637
