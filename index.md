@@ -15,22 +15,18 @@ My statisical interest is largely motivated by ongoing collaborative work in neu
 
 <img src="photo.jpg" alt="drawing" width="500"/>
 
-
-## Some annoucements!
-
-* I will be visiting Université Paris Dauphine in the fall of 2026, thanks to my host Christian Robert. I look forward to developing new collaboration in the European science community -- send me an email & let's meet!
    
 # Research Interests
 
 Selected recent work (pre-print and accepted):
 
 * Leo L. Duan, Sunghyun Cho and Mingzhang Yin. Relaxation of Projected Prior with Continuous Gap Shrinkage. https://arxiv.org/abs/2605.14936
-* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. (Under review at JMLR) http://arxiv.org/abs/2604.21009
-* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. (Under review at JRSS-B) https://arxiv.org/abs/2604.10178
-*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. (Revision at Biometrika) https://arxiv.org/abs/2511.11996
-*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  (Revision at JASA). https://arxiv.org/abs/2504.11630
-*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes.  (Revision at JASA) https://arxiv.org/abs/2403.00968
-*   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. (Under Review at JMLR). https://arxiv.org/abs/2503.11637
+* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
+* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
+*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. https://arxiv.org/abs/2511.11996
+*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. https://arxiv.org/abs/2403.00968
+*   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. https://arxiv.org/abs/2503.11637
+*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  JASA 2026 (in press)
 *   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
 *   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. JMLR 2025.
 *   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. JCGS 2025.
