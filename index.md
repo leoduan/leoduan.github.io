@@ -78,11 +78,15 @@ Luis Hasenauer (UF)
 
 Sunghyun Cho (UF)
 
+Jyun-Yu Chen (UF)
+
+Juntae Kwon (UF)
+
 Zitian Wu (UF Biostats)
 
-Yu Zheng (UF)
+# Alumni
 
-# Mentored Doctoral Students
+Yu Zheng (UF)
 
 Cheng Zeng (UF)
 
@@ -90,7 +94,7 @@ Yaozhi Yang (UF)
 
 Zeyu Yuwen (UF)
 
-Edric Tam (Duke)
+Edric Tam (Duke, student collaborator)
 
 Eleni Dilma (UF)
 
