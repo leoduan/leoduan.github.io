@@ -76,8 +76,6 @@ April 2026, UT Austin Seminar
 
 Luis Hasenauer (UF)
 
-Sunghyun Cho (UF)
-
 Jyun-Yu Chen (UF)
 
 Juntae Kwon (UF)
