@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero" markdown="1">
 
-<img src="{{ '/photo.jpg' | relative_url }}" alt="Leo Duan">
+<img src="{{ '/photo.jpg' | relative_url }}?v=2026-10" alt="Leo Duan">
 
 <div markdown="1">
 
