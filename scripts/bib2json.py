@@ -73,6 +73,9 @@ def build_entry(key, f, kind):
     arxiv = re.search(r"arXiv:(\d{4}\.\d{4,5})", journal)
     if arxiv:
         entry["arxiv"] = f"https://arxiv.org/abs/{arxiv.group(1)}"
+        # arXiv ids are YYMM.NNNNN: date of the first version
+        entry["year"] = 2000 + int(arxiv.group(1)[:2])
+        entry["month"] = int(arxiv.group(1)[2:4])
         status = journal.split(",", 1)[1].strip() if "," in journal else ""
         entry["venue"] = status[:1].upper() + status[1:]
     else:

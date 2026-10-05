@@ -145,33 +145,6 @@
     "link": "https://arxiv.org/abs/2511.11996"
   },
   {
-    "key": "zhengconsistency",
-    "type": "preprint",
-    "title": "Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest",
-    "authors": [
-      {
-        "name": "Yu Zheng",
-        "me": false,
-        "student": true
-      },
-      {
-        "name": "Leo L. Duan",
-        "me": true,
-        "student": false
-      },
-      {
-        "name": "Arkaprava Roy",
-        "me": false,
-        "student": false
-      }
-    ],
-    "year": 2025,
-    "month": 11,
-    "arxiv": "https://arxiv.org/abs/2409.19129",
-    "venue": "Revision submitted to Bernoulli",
-    "link": "https://arxiv.org/abs/2409.19129"
-  },
-  {
     "key": "tam2025exact",
     "type": "journal",
     "title": "Exact Sampling of Spanning Trees via Fast-Forwarded Random Walks",
@@ -230,38 +203,6 @@
     "link": "https://arxiv.org/abs/2503.11637"
   },
   {
-    "key": "zeng2024bridged",
-    "type": "preprint",
-    "title": "The Bridged Posterior: Optimization, Profile Likelihood and a New Approach to Generalized Bayes",
-    "authors": [
-      {
-        "name": "Cheng Zeng",
-        "me": false,
-        "student": true
-      },
-      {
-        "name": "Eleni Dilma",
-        "me": false,
-        "student": true
-      },
-      {
-        "name": "Jason Xu",
-        "me": false,
-        "student": false
-      },
-      {
-        "name": "Leo L. Duan",
-        "me": true,
-        "student": false
-      }
-    ],
-    "year": 2025,
-    "month": 3,
-    "arxiv": "https://arxiv.org/abs/2403.00968",
-    "venue": "Revision submitted to Journal of the American Statistical Association",
-    "link": "https://arxiv.org/abs/2403.00968"
-  },
-  {
     "key": "zheng2023gibbs",
     "type": "journal",
     "title": "Gibbs Sampling Using Anti-Correlation Gaussian Data Augmentation, With Applications to L1-Ball-Type Models",
@@ -281,6 +222,33 @@
     "month": 1,
     "venue": "Journal of Computational and Graphical Statistics",
     "link": "https://doi.org/10.1080/10618600.2025.2473932"
+  },
+  {
+    "key": "zhengconsistency",
+    "type": "preprint",
+    "title": "Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest",
+    "authors": [
+      {
+        "name": "Yu Zheng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Arkaprava Roy",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 9,
+    "arxiv": "https://arxiv.org/abs/2409.19129",
+    "venue": "Revision submitted to Bernoulli",
+    "link": "https://arxiv.org/abs/2409.19129"
   },
   {
     "key": "duan2022spectral",
@@ -364,6 +332,38 @@
     "month": 6,
     "venue": "Scientific Reports, 14(1): 13184",
     "link": "https://doi.org/10.1038/s41598-024-64087-4"
+  },
+  {
+    "key": "zeng2024bridged",
+    "type": "preprint",
+    "title": "The Bridged Posterior: Optimization, Profile Likelihood and a New Approach to Generalized Bayes",
+    "authors": [
+      {
+        "name": "Cheng Zeng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Eleni Dilma",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Jason Xu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 3,
+    "arxiv": "https://arxiv.org/abs/2403.00968",
+    "venue": "Revision submitted to Journal of the American Statistical Association",
+    "link": "https://arxiv.org/abs/2403.00968"
   },
   {
     "key": "xu2021bayesian",
