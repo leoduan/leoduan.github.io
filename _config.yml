@@ -1,6 +1,21 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: [Leo Duan's Research Website]
-mathjax: true
+title: Leo Duan
+description: Statistician · Associate Professor, University of Florida
+markdown: kramdown
 
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: Students
+    url: /students/
+  - title: Service
+    url: /service/
+
+exclude:
+  - _layout
+  - _include
+  - scripts
+  - "Leo Duan TP 2024-25.pdf"

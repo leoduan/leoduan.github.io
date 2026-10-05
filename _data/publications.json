@@ -1,0 +1,1095 @@
+[
+  {
+    "key": "duan2026relaxation",
+    "type": "preprint",
+    "title": "Relaxation of Projected Prior with Continuous Gap Shrinkage",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Sunghyun Cho",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Mingzhang Yin",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2026,
+    "month": 5,
+    "arxiv": "https://arxiv.org/abs/2605.14936",
+    "venue": "",
+    "link": "https://arxiv.org/abs/2605.14936"
+  },
+  {
+    "key": "distance2set2025",
+    "type": "preprint",
+    "title": "Bayesian Distance-to-Set Models: from Latent Variable to Latent Projection",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Yuexi Wang",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Jason Xu",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2026,
+    "month": 4,
+    "arxiv": "https://arxiv.org/abs/2604.10178",
+    "venue": "Under review at Journal of the American Statistical Association",
+    "link": "https://arxiv.org/abs/2604.10178"
+  },
+  {
+    "key": "duan2026revisiting",
+    "type": "preprint",
+    "title": "Revisiting Bayesian Variable Selection via Optimization",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2026,
+    "month": 4,
+    "arxiv": "https://arxiv.org/abs/2604.21009",
+    "venue": "",
+    "link": "https://arxiv.org/abs/2604.21009"
+  },
+  {
+    "key": "zheng2025statistical",
+    "type": "journal",
+    "title": "Statistical Modeling of Combinatorial Response Data",
+    "authors": [
+      {
+        "name": "Yu Zheng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Malay Ghosh",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2026,
+    "month": 0,
+    "venue": "Journal of the American Statistical Association (in press)",
+    "link": "https://doi.org/10.1080/01621459.2026.2714575"
+  },
+  {
+    "key": "duan2024graph",
+    "type": "journal",
+    "title": "Graph-Accelerated Markov Chain Monte Carlo Using Approximate Samples",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Anirban Bhattacharya",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 11,
+    "venue": "Journal of Machine Learning Research, 26(232): 1–25",
+    "link": "https://jmlr.org/papers/v26/24-1024.html"
+  },
+  {
+    "key": "wu2025persistent",
+    "type": "preprint",
+    "title": "Graphical Model-based Inference for Persistent Homology",
+    "authors": [
+      {
+        "name": "Zitian Wu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Arkaprava Roy",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 11,
+    "arxiv": "https://arxiv.org/abs/2511.11996",
+    "venue": "Under review at Biometrika",
+    "link": "https://arxiv.org/abs/2511.11996"
+  },
+  {
+    "key": "zhengconsistency",
+    "type": "preprint",
+    "title": "Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest",
+    "authors": [
+      {
+        "name": "Yu Zheng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Arkaprava Roy",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 11,
+    "arxiv": "https://arxiv.org/abs/2409.19129",
+    "venue": "Revision submitted to Bernoulli",
+    "link": "https://arxiv.org/abs/2409.19129"
+  },
+  {
+    "key": "tam2025exact",
+    "type": "journal",
+    "title": "Exact Sampling of Spanning Trees via Fast-Forwarded Random Walks",
+    "authors": [
+      {
+        "name": "Edric Tam",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 4,
+    "venue": "Biometrika",
+    "link": "https://doi.org/10.1093/biomet/asaf031"
+  },
+  {
+    "key": "gbp2025",
+    "type": "preprint",
+    "title": "Gradient-bridged Posterior: Bayesian Inference for Models with Implicit Functions",
+    "authors": [
+      {
+        "name": "Cheng Zeng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Yaozhi Yang",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Jason Xu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 3,
+    "arxiv": "https://arxiv.org/abs/2503.11637",
+    "venue": "Under review at Journal of Machine Learning Research",
+    "link": "https://arxiv.org/abs/2503.11637"
+  },
+  {
+    "key": "zeng2024bridged",
+    "type": "preprint",
+    "title": "The Bridged Posterior: Optimization, Profile Likelihood and a New Approach to Generalized Bayes",
+    "authors": [
+      {
+        "name": "Cheng Zeng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Eleni Dilma",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Jason Xu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 3,
+    "arxiv": "https://arxiv.org/abs/2403.00968",
+    "venue": "Revision submitted to Journal of the American Statistical Association",
+    "link": "https://arxiv.org/abs/2403.00968"
+  },
+  {
+    "key": "zheng2023gibbs",
+    "type": "journal",
+    "title": "Gibbs Sampling Using Anti-Correlation Gaussian Data Augmentation, With Applications to L1-Ball-Type Models",
+    "authors": [
+      {
+        "name": "Yu Zheng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2025,
+    "month": 1,
+    "venue": "Journal of Computational and Graphical Statistics",
+    "link": "https://doi.org/10.1080/10618600.2025.2473932"
+  },
+  {
+    "key": "duan2022spectral",
+    "type": "journal",
+    "title": "Spectral Clustering, Spanning Forest, and Bayesian Forest Process",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Arkaprava Roy",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 8,
+    "venue": "Journal of the American Statistical Association, 119(547): 2140–2153",
+    "link": "https://doi.org/10.1080/01621459.2023.2250098"
+  },
+  {
+    "key": "wang2024analysing",
+    "type": "journal",
+    "title": "Analysing and Visualising Mobility Vulnerability and Recovery Across Florida Neighbourhoods: A Case Study of Hurricane Ian",
+    "authors": [
+      {
+        "name": "Jinpeng Wang",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Yujie Hu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "George Michailidis",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 7,
+    "venue": "Regional Studies, Regional Science, 11(1): 384–386",
+    "link": "https://doi.org/10.1080/21681376.2024.2369550"
+  },
+  {
+    "key": "he2024returners",
+    "type": "journal",
+    "title": "Returners and Explorers Dichotomy in the Face of Natural Hazards",
+    "authors": [
+      {
+        "name": "Zeyu He",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Yujie Hu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "George Michailidis",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 6,
+    "venue": "Scientific Reports, 14(1): 13184",
+    "link": "https://doi.org/10.1038/s41598-024-64087-4"
+  },
+  {
+    "key": "xu2021bayesian",
+    "type": "journal",
+    "title": "Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality",
+    "authors": [
+      {
+        "name": "Maoran Xu",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Hua Zhou",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Yujie Hu",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2024,
+    "month": 0,
+    "venue": "Journal of the American Statistical Association, 119(547): 1847–1858",
+    "link": "https://doi.org/10.1080/01621459.2023.2220170"
+  },
+  {
+    "key": "duan2023bayesian",
+    "type": "journal",
+    "title": "Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2023,
+    "month": 12,
+    "venue": "Journal of Machine Learning Research, 24(397): 1–44",
+    "link": "https://jmlr.org/papers/v24/22-0252.html"
+  },
+  {
+    "key": "duan2019spiked",
+    "type": "journal",
+    "title": "Bayesian Spiked Laplacian Graphs",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "George Michailidis",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Mingzhou Ding",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2023,
+    "month": 11,
+    "venue": "Journal of Machine Learning Research, 24(3): 1–35",
+    "link": "https://jmlr.org/papers/v24/20-1206.html"
+  },
+  {
+    "key": "yuwen2022low",
+    "type": "journal",
+    "title": "Low Tree-Rank Bayesian Vector Autoregression Models",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Zeyu Yuwen",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "George Michailidis",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Zhengwu Zhang",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2023,
+    "month": 10,
+    "venue": "Journal of Machine Learning Research, 24(286): 1–35",
+    "link": "https://jmlr.org/papers/v24/22-0360.html"
+  },
+  {
+    "key": "xu2020bayesian",
+    "type": "journal",
+    "title": "Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros",
+    "authors": [
+      {
+        "name": "Maoran Xu",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2023,
+    "month": 7,
+    "venue": "Journal of the Royal Statistical Society Series B (Statistical Methodology), 85(5): 1538–1560",
+    "link": "https://doi.org/10.1093/jrsssb/qkad076"
+  },
+  {
+    "key": "zeng2020quasi",
+    "type": "journal",
+    "title": "Quasi-Bernoulli Stick-Breaking: Infinite Mixture With Cluster Consistency",
+    "authors": [
+      {
+        "name": "Cheng Zeng",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Jeffrey Miller",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2023,
+    "month": 5,
+    "venue": "Journal of Machine Learning Research, 24(153): 1–32",
+    "link": "https://jmlr.org/papers/v24/22-0436.html"
+  },
+  {
+    "key": "badea2022imaging",
+    "type": "journal",
+    "title": "Imaging Biomarkers for Alzheimer's Disease Using Magnetic Resonance Microscopy",
+    "authors": [
+      {
+        "name": "Alexandra Badea",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Jacques A. Stout",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Robert J. Anderson",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Gary P. Cofer",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Joshua T. Vogelstein",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2022,
+    "month": 8,
+    "venue": "Magnetic Resonance Microscopy: Instrumentation and Applications in Engineering, Life Science, and Energy Research",
+    "link": "https://doi.org/10.1002/9783527827244.ch13"
+  },
+  {
+    "key": "duan2021transport",
+    "type": "journal",
+    "title": "Transport Monte Carlo: High-Accuracy Posterior Approximation via Random Transport",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2022,
+    "month": 1,
+    "venue": "Journal of the American Statistical Association, 118(543): 1659–1670",
+    "link": "https://doi.org/10.1080/01621459.2021.2003201"
+  },
+  {
+    "key": "duan2021bayesian",
+    "type": "journal",
+    "title": "Bayesian Distance Clustering",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2021,
+    "month": 8,
+    "venue": "Journal of Machine Learning Research, 22(224): 1–27",
+    "link": "https://jmlr.org/papers/v22/20-688.html"
+  },
+  {
+    "key": "szczesniak2020data",
+    "type": "journal",
+    "title": "Data Driven Decision Making to Characterize Clinical Personas of Parents of Children With Cystic Fibrosis: A Mixed Methods Study",
+    "authors": [
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Teresa Pestian",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Dan Li",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Sophia Stamper",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Brycen Ferrara",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Elizabeth Kramer",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "John P. Clancy",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Daniel Grossoehme",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2020,
+    "month": 6,
+    "venue": "BMC Pulmonary Medicine, 20(1): 1–14",
+    "link": "https://doi.org/10.1186/s12890-020-01202-x"
+  },
+  {
+    "key": "duan2017constrained",
+    "type": "journal",
+    "title": "Bayesian Constraint Relaxation",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Alex Young",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Akihiko Nishimura",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2020,
+    "month": 3,
+    "venue": "Biometrika, 107(1): 191–204",
+    "link": "https://doi.org/10.1093/biomet/asz069"
+  },
+  {
+    "key": "duan2020latent",
+    "type": "journal",
+    "title": "Latent Simplex Position Model: High Dimensional Multi-view Clustering with Uncertainty Quantification",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2020,
+    "month": 1,
+    "venue": "Journal of Machine Learning Research, 21(38): 1–25",
+    "link": "https://jmlr.org/papers/v21/19-239.html"
+  },
+  {
+    "key": "tikhonov2020computationally",
+    "type": "journal",
+    "title": "Computationally Efficient Joint Species Distribution Modeling of Big Spatial Data",
+    "authors": [
+      {
+        "name": "Gleb Tikhonov",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Nerea Abrego",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Graeme Newell",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Matt White",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "David Dunson",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Otso Ovaskainen",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2019,
+    "month": 11,
+    "venue": "Ecology, 101(2): e02929",
+    "link": "https://doi.org/10.1002/ecy.2929"
+  },
+  {
+    "key": "duan2018scaling",
+    "type": "journal",
+    "title": "Scaling Up Data Augmentation MCMC via Calibration",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "James E. Johndrow",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2018,
+    "month": 10,
+    "venue": "Journal of Machine Learning Research, 19(1): 2575–2608",
+    "link": "https://jmlr.org/papers/v19/17-573.html"
+  },
+  {
+    "key": "duan2018joint",
+    "type": "journal",
+    "title": "Joint Hierarchical Gaussian Process Model With Application to Personalized Prediction in Medical Monitoring",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Xia Wang",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "John P. Clancy",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2018,
+    "month": 3,
+    "venue": "Stat, 7(1): e178",
+    "link": "https://doi.org/10.1002/sta4.178"
+  },
+  {
+    "key": "duan2017functional",
+    "type": "journal",
+    "title": "Functional Inverted-Wishart for Bayesian Multivariate Spatial Modeling with Application to Regional Climatology Model Data",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Xia Wang",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2017,
+    "month": 9,
+    "venue": "Environmetrics, 28(7)",
+    "link": "https://doi.org/10.1002/env.2467"
+  },
+  {
+    "key": "ovaskainen2017make",
+    "type": "journal",
+    "title": "How to Make More Out of Community Data? A Conceptual Framework and Its Implementation as Models and Software",
+    "authors": [
+      {
+        "name": "Otso Ovaskainen",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Gleb Tikhonov",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Anna Norberg",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "F. Guillaume Blanchet",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "David B. Dunson",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Tomas Roslin",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Nerea Abrego",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2017,
+    "month": 8,
+    "venue": "Ecology Letters, 20(5): 561–576",
+    "link": "https://doi.org/10.1111/ele.12757"
+  },
+  {
+    "key": "dexheimer2017effects",
+    "type": "journal",
+    "title": "The Effects of Medication Alerts on Prescriber Response in a Pediatric Hospital",
+    "authors": [
+      {
+        "name": "Judith W. Dexheimer",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Eric S. Kirkendall",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Michal Kouril",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Philip A. Hagedorn",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Thomas Minich",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Monifa Mahdi",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "S. Andrew Spooner",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2017,
+    "month": 8,
+    "venue": "Applied Clinical Informatics, 8(2): 491–501",
+    "link": "https://doi.org/10.4338/aci-2016-10-ra-0168"
+  },
+  {
+    "key": "szczesniak2016longitudinal",
+    "type": "journal",
+    "title": "Longitudinal Patterns of Glycemic Control and Blood Pressure in Pregnant Women with Type 1 Diabetes Mellitus: Phenotypes From Functional Data Analysis",
+    "authors": [
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Dan Li",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Mekibib Altaye",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Menachem Miodovnik",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Jane C. Khoury",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2016,
+    "month": 11,
+    "venue": "American Journal of Perinatology, 33(13): 1282–1290",
+    "link": "https://doi.org/10.1055/s-0036-1586507"
+  },
+  {
+    "key": "duan2016bayesian",
+    "type": "journal",
+    "title": "Bayesian Ensemble Trees for Clustering and Prediction in Heterogeneous Data",
+    "authors": [
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "John P. Clancy",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2016,
+    "month": 8,
+    "venue": "Journal of Computational and Graphical Statistics, 25(3): 748–761",
+    "link": "https://doi.org/10.1080/10618600.2015.1089774"
+  },
+  {
+    "key": "kotha2015concentration",
+    "type": "journal",
+    "title": "Concentration of Fractional Excretion of Nitric Oxide: A Potential Airway Biomarker of Restored CFTR Function",
+    "authors": [
+      {
+        "name": "Kavitha Kotha",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Anjaparavanda P. Naren",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Matthew C. Fenchel",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Gary L. McPhail",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "John P. Clancy",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2015,
+    "month": 6,
+    "venue": "Journal of Cystic Fibrosis, 14(6): 733–740",
+    "link": "https://doi.org/10.1016/j.jcf.2015.07.002"
+  },
+  {
+    "key": "szczesniak2013semiparametric",
+    "type": "journal",
+    "title": "A Semiparametric Approach to Estimate Rapid Lung Function Decline in Cystic Fibrosis",
+    "authors": [
+      {
+        "name": "Rhonda D. Szczesniak",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Gary L. McPhail",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      },
+      {
+        "name": "Maurizio Macaluso",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Raouf S. Amin",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "John P. Clancy",
+        "me": false,
+        "student": false
+      }
+    ],
+    "year": 2013,
+    "month": 8,
+    "venue": "Annals of Epidemiology, 23(12): 771–777",
+    "link": "https://doi.org/10.1016/j.annepidem.2013.08.009"
+  }
+]

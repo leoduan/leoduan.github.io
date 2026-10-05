@@ -1,0 +1,5 @@
+<li>
+  <span class="title">{% if include.pub.link %}<a href="{{ include.pub.link }}">{{ include.pub.title }}</a>{% else %}{{ include.pub.title }}{% endif %}</span>
+  <span class="authors">{% for a in include.pub.authors %}{% if a.me %}<strong>{{ a.name }}</strong>{% else %}{{ a.name }}{% endif %}{% if a.student %}<sup>†</sup>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+  {% if include.pub.type == "journal" %}<span class="venue">{{ include.pub.venue }}, {{ include.pub.year }}</span>{% endif %}
+</li>

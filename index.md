@@ -1,102 +1,52 @@
-#### Hello, thanks for checking out my website.
+---
+layout: default
+title: Home
+---
 
-I'm Leo Duan. I'm a statistician and an Associate Professor at the University of Florida.
+<div class="hero" markdown="1">
 
-My research focuses on the interface between optimization and Bayes.
+<img src="{{ '/photo.jpg' | relative_url }}" alt="Leo Duan">
 
-The goal of our research group is to develop new statistical and machine learning toolboxes that _just work_ -- which means simple implementation, fast computation, and principled uncertainty quantification.
+<div markdown="1">
 
-Achieving this goal is not trivial, which is why we've been working to show how one can borrow strengths from two communities: Bayes, who are good at probabilistic modeling, and optimization, who are good at efficient computing. Check out our work below on building optimization-based priors, optimization-based  likelihoods, and optimization-based generative models, and feel free to reach out with any questions.
+# Leo Duan
 
-My statisical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, and transportation science.
+<p class="role">Statistician · Associate Professor, University of Florida</p>
 
+</div>
+</div>
 
-** My CV can be found** [here](leo_duan_cv.pdf)  (updated 2026 April)
+## About
 
-<img src="photo.jpg" alt="drawing" width="500"/>
+Hi there, thanks for stopping by! My name is Leo Duan, I am a professional <span class="pro">statistician</span> and an (amateur) <span class="amateur">photographer</span>.
 
-   
-# Research Interests
+## Education and Experience
 
-Selected recent work (pre-print and accepted):
+<ul class="dated">
+  <li><span class="when">2025–present</span><span>Associate Professor, Department of Statistics, University of Florida</span></li>
+  <li><span class="when">Present</span><span>Affiliate Faculty, McKnight Brain Institute, University of Florida</span></li>
+  <li><span class="when">2018–2025</span><span>Assistant Professor, Department of Statistics, University of Florida</span></li>
+  <li><span class="when">2016–2018</span><span>Postdoctoral Associate in Statistics, Duke University (Mentor: David Dunson)</span></li>
+  <li><span class="when">2011–2015</span><span>Ph.D. in Mathematics, University of Cincinnati (Advisors: Rhonda Szczesniak, Xia Wang)</span></li>
+  <li><span class="when">2009</span><span>B.S., Sichuan University (with honors)</span></li>
+</ul>
 
-* Leo L. Duan, Sunghyun Cho and Mingzhang Yin. Relaxation of Projected Prior with Continuous Gap Shrinkage. https://arxiv.org/abs/2605.14936
-* Leo L. Duan. Revisiting Bayesian Variable Selection via Optimization. http://arxiv.org/abs/2604.21009
-* Leo L. Duan, Yuexi Wang and Jason Xu. Bayesian Distance-to-Set Models. https://arxiv.org/abs/2604.10178
-*   Zitian Wu, Arkaprava Roy and Leo L. Duan. Graphical Model-based Inference on Persistent Homology. https://arxiv.org/abs/2511.11996
-*   Cheng Zeng, Eleni Dilma, Jason Xu and Leo L. Duan. Bridged Posterior: Optimization, Profile Likelihood and a New Approach for Generalized Bayes. https://arxiv.org/abs/2403.00968
-*   Cheng Zeng, Yaozhi Yang, Jason Xu and Leo L. Duan. Gradient-Bridged Posterior: Bayesian Inference for Models with Implicit Function. https://arxiv.org/abs/2503.11637
-*   Yu Zheng, Malay Ghosh and Leo L. Duan. Statistical Modeling of Combinatorial Response Data.  JASA 2026 (in press)
-*   Edric Tam, David B. Dunson and Leo L. Duan. Exact Sampling of Spanning Trees via Fast-forwarded Random Walks. Biometrika 2025.
-*   Leo L. Duan and Anirban Bhattacharya. Graph-accelerated Markov Chain Monte Carlo. JMLR 2025.
-*   Yu Zheng and Leo L. Duan. Gibbs Sampling using Anti-correlation Gaussian Data Augmentation, with Applications to L1-ball-type Models. JCGS 2025.
-*   Yu Zheng, Leo L. Duan and Arkaprava Roy. Consistency of Graphical Model-based Clustering: Robust Clustering using Bayesian Spanning Forest 2025. (Revision at Bernoulli) 
-*   Leo L. Duan and David B. Dunson. Bayesian Spanning Tree: Estimating the Backbone of the Dependence Graph. JMLR 2024.
-*   Maoran Xu and Leo L. Duan. Bayesian Inference with the L1-ball Prior: Solving Combinatorial Problems with Exact Zeros. JRSS-B, 2023.
-*   Maoran Xu, Hua Zhou, Yujie Hu and Leo L. Duan. Bayesian Inference using the Proximal Mapping: Uncertainty Quantification under Varying Dimensionality.  JASA, 2023.
-*   Leo L. Duan and Arkaprava Roy.  Spectral Clustering, Spanning Forest, and Bayesian Forest Process. JASA, 2023.
-*   Cheng Zeng, Jeffrey Miller and Leo L. Duan. Quasi-Bernoulli Stick-breaking: Infinite Mixture with Cluster Consistency. JMLR, 2023
-*   Leo L. Duan, Zeyu Yuwen, George Michailidis and Zhengwu Zhang.  Bayesian Vector Autoregression using the Tree Rank Prior. JMLR, 2023
-*   Leo L. Duan, George Michailidis and Mingzhou Ding. Spiked Laplacian Graph. JMLR, 2022.
-*   Leo L. Duan and David B. Dunson. Bayesian Distance Clustering. JMLR, 2021.
-*   Leo L. Duan.  High-Accuracy Posterior Approximation via Random Transport. JASA, 2021.
-*   Leo L. Duan. Latent Simplex Position Model. JMLR, 2020.
-*   Leo L. Duan, Alex Young, Akihiko Nishimura, and David B. Dunson. Bayesian Constraint Relaxation. Biometrika 2019.
-*   Leo L. Duan, James E. Johndrow, and David B. Dunson. Scaling up Data Augmentation MCMC via Calibration. JMLR, 2018.
+## Research interest
 
 
+My research focuses on the interface between **optimization and Bayes**.
 
+The goal of our research group is to develop new statistical and machine learning toolboxes that _just work_ — simple implementation, fast computation, and principled uncertainty quantification.
 
-# Selected Fundings and Awards
+Achieving this goal is not trivial, which is why we've been working to show how one can borrow strengths from two communities: Bayes, who are good at probabilistic modeling, and optimization, who are good at efficient computing. Check out our work on building optimization-based priors, optimization-based likelihoods, and optimization-based generative models, and feel free to reach out with any questions.
 
-2023-2027 NSF-ATD: Geospatial Modeling and Risk Mitigation for Human Movement Dynamics under Hurricane Threats (PI)
+My statistical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, and transportation science.
 
-2024 UF CLAS Fellowship for Doctoral Student Supervised
+## Recent Talks
 
-2022 UF CLAS Faculty Travel Award
-
-2022-2023 UFII SEED Funding Award
-
-2021 UF Statistics Faculty Award for Doctoral Student Supervised
-
-2018 NeurIPS Bayesian Non-parametrics Award
-
-2015 ASA Paper Competition Award in Section on Bayesian Statistical Science
-
-2014 Woodside Foundation Award for Contribution in Biostatistics and Epidemiology Research
-
-
-# Upcoming Talks
-
-June 2026, ISBA World Meetings
-
-April 2026, UT Austin Seminar
-
-# Currently Advised/Collaborating Students
-
-Luis Hasenauer (UF)
-
-Jyun-Yu Chen (UF)
-
-Juntae Kwon (UF)
-
-Zitian Wu (UF Biostats)
-
-# Alumni
-
-Yu Zheng (UF)
-
-Cheng Zeng (UF)
-
-Yaozhi Yang (UF)
-
-Zeyu Yuwen (UF)
-
-Edric Tam (Duke, student collaborator)
-
-Eleni Dilma (UF)
-
-Maoran Xu (UF)
-
-
-
+<ul class="dated">
+  <li><span class="when">September 2026</span><span><em>Statistical Modeling of Combinatorial Response Data: An Inspiration from Albert and Chib (1993)</em><br><small>Université Paris Dauphine-PSL, PariSanté Campus</small></span></li>
+  <li><span class="when">June 2026</span><span><em>Graph-event Modeling for Inference on Persistent Homology</em><br><small>ISBA World Meeting, Nagoya</small></span></li>
+  <li><span class="when">June 2026</span><span><em>Bayesian Distance-to-Set Models</em><br><small>Seminar, Department of Decision Sciences, Bocconi University, Milan</small></span></li>
+  <li><span class="when">April 2026</span><span><em>Bayesian Distance-to-Set Models: from Latent Variable to Latent Projection</em><br><small>Seminar, University of Texas at Austin</small></span></li>
+</ul>
