@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-My research focuses on the interface between optimization and Bayes: optimization-based priors, optimization-based likelihoods, and optimization-based generative models. Applications are motivated by collaborative work in neuroscience, engineering, and transportation science.
+My research focuses on the interface between optimization and Bayes: optimization-based priors, optimization-based likelihoods, and optimization-based generative models. Applications are motivated by collaborative work in neuroscience, engineering, forensics, and data privacy.
 
 <p class="legend"><sup>†</sup> Student or trainee I advised</p>
 

@@ -18,7 +18,7 @@ title: Home
 
 ## About
 
-Hi there, thanks for stopping by! My name is Leo Duan, I am a professional <span class="pro">statistician</span> and an (amateur) <span class="amateur">photographer</span>.
+Hi there, thanks for stopping by! My name is Leo Duan. I am a professional <span class="pro">statistician</span> and an (amateur) <span class="amateur">photographer</span>.
 
 ## Education and Experience
 
@@ -31,8 +31,7 @@ Hi there, thanks for stopping by! My name is Leo Duan, I am a professional <span
   <li><span class="when">2009</span><span>B.S., Sichuan University (with honors)</span></li>
 </ul>
 
-## Research interest
-
+## Research Interests
 
 My research focuses on the interface between **optimization and Bayes**.
 
@@ -40,7 +39,9 @@ The goal of our research group is to develop new statistical and machine learnin
 
 Achieving this goal is not trivial, which is why we've been working to show how one can borrow strengths from two communities: Bayes, who are good at probabilistic modeling, and optimization, who are good at efficient computing. Check out our work on building optimization-based priors, optimization-based likelihoods, and optimization-based generative models, and feel free to reach out with any questions.
 
-My statistical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, and transportation science.
+My statistical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, forensics, and data privacy.
+
+**Stance on AI.** Embrace AI for inside-the-box tasks + check against slop. Work AI-unplugged for creativity. Reject AI spoon-feeding. Enjoy the stats and math on our own.
 
 ## Recent Talks
 
