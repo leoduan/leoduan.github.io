@@ -41,7 +41,7 @@ Achieving this goal is not trivial, which is why we've been working to show how 
 
 My statistical interest is largely motivated by ongoing collaborative work in neuroscience, engineering, forensics, and data privacy.
 
-**Stance on AI.** Embrace AI for inside-the-box tasks + check against slop. Work AI-unplugged for creativity. Reject AI spoon-feeding. Enjoy the stats and math on our own.
+**Stance on AI.** Embrace AI for inside-the-box tasks + check against slop. Work AI-unplugged for creativity. Reject AI spoon-feeding. Enjoy stats and math on our own.
 
 ## Recent Talks
 
