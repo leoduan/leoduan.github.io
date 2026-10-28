@@ -1,5 +1,32 @@
 [
   {
+    "key": "hasenauer2026mirror",
+    "type": "preprint",
+    "title": "Mirror Likelihood for Modeling Manifold Data with Application on Correlation Time Series",
+    "authors": [
+      {
+        "name": "Luis Hasenauer",
+        "me": false,
+        "student": true
+      },
+      {
+        "name": "Arkaprava Roy",
+        "me": false,
+        "student": false
+      },
+      {
+        "name": "Leo L. Duan",
+        "me": true,
+        "student": false
+      }
+    ],
+    "year": 2026,
+    "month": 10,
+    "arxiv": "https://arxiv.org/abs/2610.36448",
+    "venue": "",
+    "link": "https://arxiv.org/abs/2610.36448"
+  },
+  {
     "key": "duan2026relaxation",
     "type": "preprint",
     "title": "Relaxation of Projected Prior with Continuous Gap Shrinkage",
